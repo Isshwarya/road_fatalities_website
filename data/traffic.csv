@@ -1,0 +1,1001 @@
+﻿id,state,month,year,dayweek,crash_type,bus_involvement,rigid_truck_involvement,articulated_truck_involvement,speed_limit,road_user,gender,age,hour,involvement,minutes,time
+29841785,Colorado,August,2019,Tuesday,Single Vehicle,no,yes,yes,100,Motorcycle rider,Female,24,12,no,35,12:35
+51915022,Florida,December,2017,Thursday,Multiple Vehicle,no,yes,yes,50,Driver,Female,32,19,no,14,19:14
+25742751,California,March,2016,Saturday,Single Vehicle,no,yes,no,50,Passenger,Female,69,1,no,54,1:54
+37534843,Georgia,December,2021,Monday,Multiple Vehicle,no,no,yes,80,Pedestrian,Female,50,17,yes,5,17:5
+83970126,Virginia,October,2019,Tuesday,Multiple Vehicle,no,no,no,70,Motorcycle rider,Female,78,4,no,2,4:2
+38110998,Massachusetts,July,2021,Tuesday,Multiple Vehicle,yes,no,yes,110,Motorcycle rider,Male,57,5,yes,36,5:36
+57140803,Georgia,June,2021,Monday,Multiple Vehicle,no,yes,no,80,Motorcycle rider,Female,48,5,yes,53,5:53
+37632311,California,October,2018,Monday,Single Vehicle,yes,yes,no,60,Passenger,Female,37,2,yes,40,2:40
+00588494,Alabama,July,2018,Saturday,Multiple Vehicle,yes,yes,no,80,Motorcycle rider,Male,33,11,yes,59,11:59
+11376144,Tennessee,July,2022,Tuesday,Single Vehicle,yes,yes,no,110,Pedestrian,Male,33,23,yes,27,23:27
+82596027,Minnesota,February,2020,Tuesday,Multiple Vehicle,yes,no,no,80,Driver,Female,60,13,yes,7,13:7
+25918057,Alaska,November,2016,Monday,Single Vehicle,no,yes,yes,70,Driver,Male,62,11,yes,8,11:8
+05725100,District of Columbia,March,2016,Tuesday,Multiple Vehicle,no,yes,no,40,Pedestrian,Female,60,0,yes,16,0:16
+45379251,Florida,June,2017,Tuesday,Single Vehicle,no,yes,yes,80,Motorcycle rider,Female,94,6,no,30,6:30
+30366338,Texas,September,2017,Saturday,Multiple Vehicle,yes,no,yes,50,Passenger,Female,55,1,yes,13,1:13
+88343992,Utah,September,2019,Sunday,Multiple Vehicle,yes,yes,yes,110,Driver,Male,96,11,no,34,11:34
+53520964,Indiana,December,2020,Saturday,Single Vehicle,yes,yes,no,50,Pedestrian,Female,97,1,no,5,1:5
+79919609,Utah,February,2018,Wednesday,Multiple Vehicle,no,no,yes,120,Pedestrian,Female,64,22,yes,2,22:2
+50290354,Arizona,September,2020,Tuesday,Multiple Vehicle,yes,yes,no,90,Motorcycle rider,Male,45,18,no,30,18:30
+92308890,Oklahoma,November,2021,Saturday,Single Vehicle,no,no,no,100,Pedestrian,Female,23,10,yes,41,10:41
+98360357,Missouri,October,2017,Wednesday,Multiple Vehicle,yes,no,yes,90,Motorcycle rider,Female,87,14,yes,46,14:46
+95287329,Indiana,September,2016,Monday,Multiple Vehicle,yes,no,no,70,Driver,Female,82,0,no,6,0:6
+39103302,Texas,April,2022,Sunday,Multiple Vehicle,yes,yes,yes,50,Passenger,Female,57,16,yes,3,16:3
+71058206,Texas,April,2018,Saturday,Single Vehicle,no,no,yes,40,Driver,Female,100,3,yes,2,3:2
+89483940,California,August,2019,Thursday,Multiple Vehicle,no,no,no,60,Pedestrian,Male,15,2,no,33,2:33
+92886649,California,December,2021,Saturday,Multiple Vehicle,yes,no,no,90,Passenger,Female,59,23,yes,13,23:13
+31563310,Florida,February,2019,Thursday,Multiple Vehicle,yes,yes,yes,120,Pedestrian,Female,48,1,no,26,1:26
+91849035,North Carolina,December,2016,Monday,Multiple Vehicle,no,no,no,120,Pedestrian,Male,38,6,yes,37,6:37
+72061292,Virginia,July,2016,Saturday,Single Vehicle,yes,yes,no,50,Driver,Male,12,11,yes,46,11:46
+59921475,California,January,2019,Sunday,Single Vehicle,yes,no,yes,60,Pedestrian,Female,17,4,yes,21,4:21
+14026441,Nebraska,May,2015,Wednesday,Multiple Vehicle,yes,no,no,90,Motorcycle rider,Male,40,13,no,50,13:50
+21253820,Alabama,July,2016,Sunday,Multiple Vehicle,yes,no,yes,110,Passenger,Female,46,17,no,30,17:30
+33473800,California,July,2021,Monday,Multiple Vehicle,no,yes,no,80,Motorcycle rider,Male,20,15,yes,6,15:6
+74620237,District of Columbia,September,2021,Saturday,Multiple Vehicle,yes,no,yes,60,Passenger,Female,57,0,no,9,0:9
+50549886,California,October,2019,Wednesday,Multiple Vehicle,yes,no,yes,50,Driver,Male,75,5,no,31,5:31
+52228194,Tennessee,May,2015,Monday,Multiple Vehicle,no,no,yes,120,Driver,Male,20,9,no,30,9:30
+84677591,North Carolina,August,2021,Saturday,Multiple Vehicle,yes,yes,no,50,Driver,Male,70,14,yes,5,14:5
+75504225,Tennessee,April,2019,Thursday,Multiple Vehicle,yes,yes,yes,110,Driver,Male,47,16,yes,49,16:49
+21511016,Virginia,August,2015,Sunday,Multiple Vehicle,no,yes,yes,100,Passenger,Male,54,14,no,52,14:52
+30351993,California,January,2015,Friday,Multiple Vehicle,yes,yes,no,120,Pedestrian,Male,69,5,no,39,5:39
+78318400,Ohio,April,2018,Wednesday,Multiple Vehicle,yes,no,yes,100,Passenger,Male,70,2,yes,43,2:43
+17048101,Texas,March,2015,Thursday,Single Vehicle,no,yes,yes,70,Pedestrian,Male,80,2,no,46,2:46
+67253513,Utah,September,2015,Monday,Multiple Vehicle,yes,no,no,80,Motorcycle rider,Male,64,13,yes,43,13:43
+33128188,Louisiana,October,2015,Tuesday,Multiple Vehicle,yes,no,yes,70,Driver,Female,61,10,no,27,10:27
+01587166,Pennsylvania,January,2016,Sunday,Single Vehicle,no,no,yes,80,Driver,Male,40,23,yes,9,23:9
+68568648,Oklahoma,June,2022,Sunday,Single Vehicle,no,no,no,50,Passenger,Female,88,6,no,40,6:40
+50617572,Ohio,June,2022,Monday,Single Vehicle,no,yes,yes,60,Pedestrian,Female,50,8,yes,25,8:25
+33707605,New York,October,2016,Monday,Multiple Vehicle,yes,yes,yes,120,Passenger,Male,87,20,yes,52,20:52
+98552418,District of Columbia,June,2021,Friday,Single Vehicle,no,no,yes,40,Pedestrian,Male,55,3,yes,2,3:2
+18679652,Iowa,July,2016,Tuesday,Multiple Vehicle,no,no,no,120,Motorcycle rider,Female,34,8,no,18,8:18
+76444297,Florida,March,2017,Sunday,Multiple Vehicle,yes,yes,yes,110,Driver,Female,97,0,yes,24,0:24
+08133130,Nevada,September,2020,Saturday,Multiple Vehicle,no,yes,yes,100,Passenger,Male,10,5,no,46,5:46
+38678132,District of Columbia,December,2021,Wednesday,Single Vehicle,no,yes,yes,80,Pedestrian,Female,82,1,no,0,1:0
+87896108,Texas,February,2022,Wednesday,Multiple Vehicle,no,no,no,80,Pedestrian,Male,89,16,yes,14,16:14
+60639388,Louisiana,August,2016,Tuesday,Multiple Vehicle,no,no,no,100,Pedestrian,Female,78,19,yes,42,19:42
+25256403,Oklahoma,July,2021,Tuesday,Single Vehicle,yes,no,yes,70,Pedestrian,Female,69,9,yes,44,9:44
+37508590,Nevada,October,2020,Saturday,Single Vehicle,yes,no,yes,100,Motorcycle rider,Male,27,11,yes,35,11:35
+46030467,Indiana,November,2022,Saturday,Multiple Vehicle,yes,yes,no,40,Passenger,Female,97,20,yes,45,20:45
+69538878,Indiana,January,2021,Thursday,Single Vehicle,no,no,no,120,Pedestrian,Female,38,0,yes,7,0:7
+82429632,Massachusetts,March,2017,Thursday,Single Vehicle,no,no,no,40,Passenger,Female,15,6,no,39,6:39
+39868470,Ohio,May,2015,Wednesday,Multiple Vehicle,no,no,no,50,Passenger,Female,14,8,no,57,8:57
+83168634,Ohio,August,2018,Saturday,Single Vehicle,no,no,no,70,Motorcycle rider,Male,87,3,yes,18,3:18
+82180695,Virginia,April,2019,Sunday,Single Vehicle,yes,no,yes,120,Driver,Female,90,22,yes,55,22:55
+75900863,Kansas,September,2016,Sunday,Single Vehicle,yes,no,no,60,Motorcycle rider,Male,96,13,no,2,13:2
+11185069,Virginia,December,2021,Sunday,Multiple Vehicle,no,no,no,40,Pedestrian,Female,61,22,yes,28,22:28
+30378975,Virginia,April,2019,Monday,Single Vehicle,no,yes,no,120,Driver,Female,34,19,no,46,19:46
+19224051,California,June,2016,Friday,Multiple Vehicle,no,yes,no,60,Driver,Male,62,22,no,7,22:7
+57755064,Massachusetts,May,2018,Friday,Single Vehicle,yes,no,no,90,Passenger,Female,77,14,no,16,14:16
+25284435,Maryland,August,2017,Friday,Single Vehicle,no,yes,no,40,Passenger,Female,78,6,yes,44,6:44
+10574489,Nevada,September,2015,Tuesday,Multiple Vehicle,no,yes,no,50,Passenger,Male,89,2,no,21,2:21
+82017267,Florida,February,2022,Friday,Single Vehicle,no,yes,yes,50,Driver,Male,86,9,yes,35,9:35
+92513808,Indiana,August,2021,Thursday,Multiple Vehicle,yes,yes,no,60,Motorcycle rider,Male,44,23,no,34,23:34
+34193822,Kentucky,December,2022,Friday,Single Vehicle,no,no,yes,110,Driver,Female,28,17,no,42,17:42
+92504807,Connecticut,August,2022,Wednesday,Multiple Vehicle,yes,no,yes,50,Driver,Male,40,2,yes,30,2:30
+15636269,Michigan,December,2017,Sunday,Multiple Vehicle,yes,yes,no,50,Passenger,Male,79,3,yes,11,3:11
+82840123,Minnesota,February,2017,Sunday,Single Vehicle,yes,yes,no,70,Pedestrian,Female,78,16,yes,32,16:32
+65220432,Texas,October,2018,Wednesday,Single Vehicle,yes,yes,no,120,Passenger,Female,54,9,yes,29,9:29
+58144034,Arkansas,July,2016,Sunday,Single Vehicle,yes,no,yes,50,Motorcycle rider,Female,82,6,yes,15,6:15
+75694104,Texas,April,2017,Sunday,Multiple Vehicle,no,yes,yes,90,Passenger,Male,93,11,no,6,11:6
+02569667,Texas,June,2017,Tuesday,Single Vehicle,no,no,yes,70,Motorcycle rider,Female,19,8,yes,58,8:58
+75656995,Oklahoma,February,2017,Sunday,Single Vehicle,yes,yes,yes,40,Motorcycle rider,Female,17,19,yes,3,19:3
+64994436,Illinois,October,2021,Monday,Multiple Vehicle,no,no,yes,80,Motorcycle rider,Male,18,16,yes,43,16:43
+52778388,Virginia,December,2022,Friday,Multiple Vehicle,yes,no,no,120,Motorcycle rider,Female,74,10,yes,2,10:2
+81568983,Maryland,June,2015,Friday,Multiple Vehicle,no,no,no,60,Driver,Female,81,18,no,45,18:45
+39492723,Florida,July,2018,Sunday,Multiple Vehicle,yes,yes,no,120,Driver,Male,56,10,no,49,10:49
+29974312,Texas,November,2015,Tuesday,Multiple Vehicle,yes,yes,no,120,Passenger,Female,59,0,yes,31,0:31
+67426724,Wisconsin,March,2020,Monday,Multiple Vehicle,no,yes,no,70,Driver,Male,95,1,yes,15,1:15
+25240361,Nebraska,August,2020,Friday,Single Vehicle,yes,no,yes,40,Driver,Female,42,8,no,0,8:0
+30234358,Florida,March,2017,Tuesday,Single Vehicle,yes,yes,no,40,Motorcycle rider,Male,30,21,no,39,21:39
+03209307,North Carolina,August,2015,Tuesday,Single Vehicle,yes,no,yes,70,Driver,Female,69,5,no,38,5:38
+83433898,Washington,August,2016,Wednesday,Single Vehicle,yes,yes,no,90,Pedestrian,Male,76,22,no,5,22:5
+95874294,New Hampshire,October,2017,Friday,Multiple Vehicle,no,yes,no,60,Motorcycle rider,Female,47,3,no,9,3:9
+69631348,Missouri,January,2017,Monday,Single Vehicle,no,no,yes,60,Motorcycle rider,Female,25,11,no,41,11:41
+94566287,Florida,May,2022,Saturday,Multiple Vehicle,no,no,yes,40,Pedestrian,Female,93,8,yes,7,8:7
+36112419,Alabama,October,2019,Saturday,Single Vehicle,yes,no,no,120,Motorcycle rider,Female,36,16,no,47,16:47
+42929269,Georgia,November,2020,Sunday,Single Vehicle,yes,no,no,80,Motorcycle rider,Female,18,20,no,29,20:29
+06352698,Michigan,January,2016,Thursday,Single Vehicle,yes,yes,no,110,Motorcycle rider,Female,14,7,no,31,7:31
+92659772,District of Columbia,April,2015,Sunday,Single Vehicle,no,yes,yes,110,Pedestrian,Male,25,2,yes,44,2:44
+25588273,California,May,2016,Thursday,Multiple Vehicle,no,yes,no,50,Driver,Female,63,16,yes,42,16:42
+21705757,Kentucky,June,2022,Friday,Single Vehicle,yes,yes,yes,100,Pedestrian,Female,63,12,yes,13,12:13
+35038749,Ohio,April,2015,Sunday,Multiple Vehicle,no,yes,no,110,Motorcycle rider,Female,25,0,no,55,0:55
+78168572,Arizona,February,2016,Thursday,Multiple Vehicle,no,no,no,80,Passenger,Male,88,15,yes,6,15:6
+78063551,Florida,September,2018,Sunday,Single Vehicle,yes,no,no,100,Driver,Male,47,11,yes,23,11:23
+81636162,California,July,2019,Sunday,Multiple Vehicle,yes,no,yes,110,Driver,Male,98,15,yes,11,15:11
+03928795,Virginia,February,2021,Saturday,Single Vehicle,no,no,yes,50,Motorcycle rider,Female,59,7,yes,14,7:14
+61473768,Alabama,February,2018,Monday,Single Vehicle,no,no,yes,50,Driver,Male,88,3,no,3,3:3
+17232823,Georgia,June,2018,Thursday,Multiple Vehicle,no,no,yes,70,Passenger,Female,77,5,no,45,5:45
+45090453,Texas,September,2016,Tuesday,Single Vehicle,no,no,no,60,Motorcycle rider,Female,24,7,no,53,7:53
+60485239,Oklahoma,September,2021,Wednesday,Multiple Vehicle,yes,yes,no,90,Passenger,Male,62,3,yes,48,3:48
+01470633,Mississippi,June,2015,Monday,Single Vehicle,no,yes,no,100,Passenger,Female,69,23,yes,20,23:20
+58633965,New York,December,2019,Saturday,Single Vehicle,yes,yes,yes,120,Motorcycle rider,Female,43,2,yes,5,2:5
+84567343,Florida,October,2015,Wednesday,Single Vehicle,no,yes,no,60,Pedestrian,Female,65,23,yes,54,23:54
+75901895,Virginia,November,2018,Tuesday,Multiple Vehicle,yes,yes,no,40,Pedestrian,Male,17,5,yes,3,5:3
+41054842,Michigan,August,2015,Sunday,Single Vehicle,yes,no,yes,40,Motorcycle rider,Male,21,19,no,50,19:50
+44063738,Idaho,May,2022,Saturday,Multiple Vehicle,no,no,no,120,Pedestrian,Female,75,8,yes,6,8:6
+16922915,Florida,August,2019,Sunday,Multiple Vehicle,yes,no,yes,80,Driver,Male,75,23,no,23,23:23
+69094856,Kansas,July,2019,Tuesday,Multiple Vehicle,no,yes,no,110,Driver,Female,98,13,no,2,13:2
+37133878,Tennessee,October,2020,Thursday,Single Vehicle,no,no,no,50,Motorcycle rider,Female,11,13,yes,52,13:52
+38148630,Florida,April,2015,Thursday,Multiple Vehicle,yes,yes,yes,100,Motorcycle rider,Female,60,3,yes,58,3:58
+86677463,Texas,October,2017,Saturday,Single Vehicle,no,no,yes,90,Passenger,Male,18,6,no,17,6:17
+27753971,Georgia,January,2021,Sunday,Single Vehicle,no,yes,yes,80,Motorcycle rider,Female,78,3,no,48,3:48
+22576309,Nebraska,April,2017,Sunday,Single Vehicle,no,no,no,40,Passenger,Female,97,10,no,41,10:41
+81188356,Florida,April,2016,Thursday,Single Vehicle,yes,yes,no,60,Pedestrian,Female,43,16,yes,24,16:24
+06532552,California,December,2021,Thursday,Single Vehicle,yes,no,yes,110,Passenger,Male,99,3,yes,22,3:22
+88483088,Missouri,June,2022,Thursday,Multiple Vehicle,no,no,no,50,Motorcycle rider,Male,81,1,yes,18,1:18
+66074528,Illinois,April,2022,Monday,Single Vehicle,yes,no,no,50,Motorcycle rider,Male,43,12,yes,19,12:19
+40856299,Georgia,May,2018,Thursday,Multiple Vehicle,yes,no,no,40,Passenger,Female,22,13,no,40,13:40
+94363657,Oklahoma,December,2015,Tuesday,Multiple Vehicle,yes,no,no,100,Passenger,Female,30,17,yes,19,17:19
+03352391,Utah,March,2018,Saturday,Multiple Vehicle,yes,yes,no,80,Motorcycle rider,Female,28,1,yes,54,1:54
+67829954,California,July,2018,Friday,Multiple Vehicle,no,no,yes,40,Pedestrian,Male,75,12,no,48,12:48
+02800956,Tennessee,August,2017,Friday,Single Vehicle,yes,yes,no,90,Driver,Female,28,23,no,13,23:13
+80386631,California,January,2021,Friday,Single Vehicle,no,no,no,60,Motorcycle rider,Female,32,15,no,55,15:55
+63588337,Virginia,April,2015,Tuesday,Single Vehicle,yes,no,yes,100,Pedestrian,Female,68,9,yes,41,9:41
+02165539,Washington,October,2022,Saturday,Multiple Vehicle,yes,yes,yes,50,Driver,Male,44,10,yes,56,10:56
+26015487,New York,June,2020,Tuesday,Single Vehicle,no,yes,yes,60,Motorcycle rider,Male,74,2,yes,59,2:59
+56898963,Nevada,April,2018,Saturday,Multiple Vehicle,yes,no,no,40,Passenger,Female,19,13,no,29,13:29
+74196741,New York,September,2017,Monday,Multiple Vehicle,no,yes,no,110,Driver,Female,13,7,no,34,7:34
+34491452,District of Columbia,September,2020,Monday,Single Vehicle,yes,no,yes,80,Motorcycle rider,Female,23,19,yes,33,19:33
+74199220,Washington,December,2019,Thursday,Single Vehicle,yes,yes,yes,110,Pedestrian,Male,23,14,yes,20,14:20
+45427183,Iowa,October,2020,Monday,Multiple Vehicle,no,yes,no,110,Pedestrian,Female,77,13,no,58,13:58
+59151638,New Mexico,June,2019,Tuesday,Single Vehicle,no,yes,yes,100,Driver,Female,86,13,yes,25,13:25
+52821780,Kansas,December,2017,Friday,Single Vehicle,no,yes,yes,100,Pedestrian,Female,65,18,no,20,18:20
+29291709,Florida,February,2020,Sunday,Multiple Vehicle,yes,no,no,100,Passenger,Female,38,16,yes,27,16:27
+93930692,Texas,February,2019,Sunday,Single Vehicle,yes,no,no,70,Motorcycle rider,Male,91,19,no,15,19:15
+42332242,Ohio,November,2018,Saturday,Multiple Vehicle,no,yes,no,60,Driver,Male,50,18,no,5,18:5
+68621888,District of Columbia,December,2017,Monday,Single Vehicle,no,no,no,70,Driver,Female,81,9,no,38,9:38
+91717949,District of Columbia,June,2020,Thursday,Multiple Vehicle,yes,yes,no,90,Passenger,Male,72,9,yes,57,9:57
+51881081,Utah,December,2018,Monday,Multiple Vehicle,no,no,yes,110,Pedestrian,Female,77,17,no,46,17:46
+75871664,Texas,July,2018,Saturday,Multiple Vehicle,no,no,no,70,Motorcycle rider,Female,15,5,no,2,5:2
+62282162,District of Columbia,December,2021,Thursday,Single Vehicle,yes,yes,no,100,Passenger,Male,63,20,yes,4,20:4
+80859189,Minnesota,May,2021,Tuesday,Multiple Vehicle,no,yes,no,100,Passenger,Male,55,5,yes,2,5:2
+68014355,Utah,February,2016,Sunday,Single Vehicle,no,yes,no,120,Motorcycle rider,Male,53,20,yes,28,20:28
+62849565,New York,November,2021,Sunday,Single Vehicle,no,yes,no,120,Pedestrian,Male,18,20,yes,1,20:1
+52790561,California,January,2019,Friday,Multiple Vehicle,no,no,yes,40,Motorcycle rider,Female,79,14,no,26,14:26
+09980427,Texas,April,2020,Friday,Multiple Vehicle,no,no,no,60,Motorcycle rider,Male,23,12,no,44,12:44
+69068746,California,September,2016,Thursday,Multiple Vehicle,no,no,yes,110,Pedestrian,Female,47,6,no,22,6:22
+88367246,Texas,October,2017,Friday,Single Vehicle,yes,yes,yes,100,Motorcycle rider,Male,91,2,yes,53,2:53
+22762538,Michigan,March,2018,Thursday,Single Vehicle,yes,no,yes,120,Driver,Female,50,15,no,21,15:21
+82787330,Florida,November,2016,Tuesday,Single Vehicle,yes,yes,yes,100,Motorcycle rider,Female,68,23,no,51,23:51
+92812200,California,January,2022,Tuesday,Multiple Vehicle,no,yes,no,70,Pedestrian,Male,76,10,no,59,10:59
+10856533,Colorado,June,2021,Wednesday,Single Vehicle,yes,no,yes,60,Driver,Female,37,22,no,3,22:3
+21859237,Oregon,December,2019,Monday,Multiple Vehicle,no,no,no,90,Driver,Female,19,3,yes,30,3:30
+37705428,Georgia,December,2017,Saturday,Single Vehicle,no,no,no,120,Pedestrian,Female,97,7,no,24,7:24
+83215719,California,September,2019,Saturday,Single Vehicle,yes,no,no,40,Pedestrian,Male,37,21,no,6,21:6
+46129902,Ohio,February,2020,Tuesday,Multiple Vehicle,yes,yes,no,50,Pedestrian,Male,52,4,yes,33,4:33
+61044565,Alabama,March,2019,Wednesday,Single Vehicle,yes,yes,yes,50,Passenger,Male,71,3,yes,7,3:7
+71994432,California,January,2019,Tuesday,Multiple Vehicle,no,no,no,70,Pedestrian,Female,42,1,yes,15,1:15
+20536314,Tennessee,April,2021,Tuesday,Single Vehicle,no,yes,yes,80,Pedestrian,Male,56,8,no,26,8:26
+79048370,Florida,September,2019,Monday,Single Vehicle,yes,yes,no,90,Passenger,Male,34,15,yes,42,15:42
+15021858,Texas,September,2019,Sunday,Multiple Vehicle,no,no,yes,100,Passenger,Female,27,6,no,24,6:24
+44564668,California,March,2019,Saturday,Single Vehicle,yes,yes,no,110,Driver,Female,73,18,no,56,18:56
+77648706,Texas,July,2021,Thursday,Single Vehicle,no,yes,no,60,Passenger,Male,20,8,yes,21,8:21
+80933491,California,January,2018,Tuesday,Single Vehicle,no,no,no,40,Pedestrian,Female,87,3,no,31,3:31
+63541519,Florida,December,2016,Sunday,Single Vehicle,no,no,yes,40,Driver,Female,71,7,no,29,7:29
+42681613,California,May,2022,Wednesday,Multiple Vehicle,yes,no,no,40,Passenger,Female,88,9,yes,59,9:59
+19635692,Georgia,June,2020,Friday,Multiple Vehicle,no,yes,yes,100,Passenger,Male,65,18,yes,54,18:54
+14480229,New York,September,2018,Sunday,Multiple Vehicle,no,no,yes,120,Driver,Male,39,18,yes,45,18:45
+96414795,Texas,April,2017,Saturday,Single Vehicle,no,yes,yes,60,Motorcycle rider,Female,52,16,yes,28,16:28
+73467547,Pennsylvania,June,2016,Saturday,Single Vehicle,no,yes,no,120,Motorcycle rider,Male,91,6,no,19,6:19
+43145832,California,July,2015,Monday,Multiple Vehicle,no,yes,yes,60,Passenger,Male,24,7,no,7,7:7
+80034068,New York,January,2020,Thursday,Multiple Vehicle,yes,no,no,100,Pedestrian,Male,80,6,yes,42,6:42
+03922051,Hawaii,October,2015,Monday,Multiple Vehicle,yes,yes,no,60,Driver,Male,37,0,no,38,0:38
+40033380,Missouri,September,2017,Friday,Multiple Vehicle,yes,yes,no,40,Motorcycle rider,Female,44,23,no,11,23:11
+97252082,Tennessee,December,2022,Thursday,Multiple Vehicle,no,no,yes,120,Driver,Male,72,12,yes,32,12:32
+37313491,California,August,2019,Friday,Single Vehicle,yes,no,no,60,Passenger,Male,98,1,no,4,1:4
+80988110,Florida,April,2016,Sunday,Single Vehicle,no,no,no,70,Pedestrian,Male,61,0,yes,23,0:23
+68074890,Nebraska,May,2016,Saturday,Single Vehicle,yes,no,yes,50,Driver,Male,84,19,no,11,19:11
+03618350,Texas,June,2021,Wednesday,Multiple Vehicle,no,no,no,50,Motorcycle rider,Male,24,9,yes,11,9:11
+38894924,Minnesota,February,2017,Saturday,Single Vehicle,yes,no,no,70,Passenger,Female,52,10,yes,26,10:26
+49711476,New York,May,2018,Monday,Multiple Vehicle,no,no,yes,120,Motorcycle rider,Female,47,7,yes,10,7:10
+83804368,Florida,January,2022,Monday,Multiple Vehicle,yes,yes,yes,100,Motorcycle rider,Female,10,21,no,52,21:52
+22817553,Pennsylvania,March,2020,Saturday,Multiple Vehicle,yes,yes,yes,60,Pedestrian,Female,39,13,no,11,13:11
+50420144,Pennsylvania,April,2022,Sunday,Multiple Vehicle,yes,no,no,40,Pedestrian,Male,100,5,yes,29,5:29
+19562280,Delaware,May,2022,Wednesday,Multiple Vehicle,yes,yes,no,90,Pedestrian,Male,63,14,no,14,14:14
+60611067,Colorado,August,2020,Thursday,Multiple Vehicle,yes,yes,yes,40,Pedestrian,Female,91,0,no,30,0:30
+58138042,Pennsylvania,September,2015,Monday,Single Vehicle,yes,yes,no,110,Pedestrian,Female,10,8,no,53,8:53
+26401466,Mississippi,March,2018,Sunday,Multiple Vehicle,yes,yes,no,90,Motorcycle rider,Female,80,17,yes,44,17:44
+92173736,California,October,2020,Saturday,Multiple Vehicle,yes,yes,no,110,Pedestrian,Male,69,10,yes,4,10:4
+58736309,Texas,December,2021,Thursday,Single Vehicle,no,no,no,40,Pedestrian,Male,62,20,yes,34,20:34
+31297548,Indiana,December,2020,Thursday,Single Vehicle,yes,yes,yes,80,Motorcycle rider,Female,68,15,yes,33,15:33
+29971004,Pennsylvania,February,2018,Tuesday,Multiple Vehicle,yes,yes,yes,70,Pedestrian,Female,31,1,no,41,1:41
+12436862,New York,October,2020,Wednesday,Multiple Vehicle,no,no,yes,50,Passenger,Female,91,13,no,2,13:2
+41347441,New York,December,2018,Tuesday,Multiple Vehicle,no,no,yes,100,Passenger,Male,29,1,yes,15,1:15
+91984659,Washington,December,2017,Tuesday,Single Vehicle,no,yes,yes,70,Motorcycle rider,Female,64,8,yes,58,8:58
+53399482,California,February,2016,Sunday,Single Vehicle,no,yes,no,50,Motorcycle rider,Female,34,8,no,54,8:54
+44292842,Connecticut,September,2021,Monday,Single Vehicle,no,yes,yes,110,Motorcycle rider,Female,11,17,no,21,17:21
+59800578,California,December,2019,Saturday,Multiple Vehicle,yes,yes,no,80,Driver,Male,16,16,no,48,16:48
+71913534,Tennessee,July,2021,Thursday,Multiple Vehicle,no,no,no,60,Driver,Female,15,3,no,7,3:7
+01495446,North Carolina,March,2019,Saturday,Single Vehicle,yes,no,no,100,Pedestrian,Female,32,9,yes,5,9:5
+19889446,California,August,2015,Wednesday,Multiple Vehicle,no,no,no,40,Motorcycle rider,Male,51,6,no,53,6:53
+20901321,New Jersey,September,2015,Sunday,Multiple Vehicle,yes,no,no,110,Driver,Male,78,14,yes,1,14:1
+81202406,California,November,2018,Wednesday,Multiple Vehicle,no,yes,yes,80,Passenger,Male,67,21,yes,9,21:9
+65703336,Pennsylvania,July,2018,Wednesday,Single Vehicle,yes,no,no,50,Motorcycle rider,Female,85,22,no,52,22:52
+49561033,California,July,2015,Monday,Multiple Vehicle,no,no,yes,40,Pedestrian,Female,19,15,yes,5,15:5
+05146347,Nevada,January,2015,Friday,Single Vehicle,no,yes,no,60,Pedestrian,Female,21,9,no,19,9:19
+90209629,Texas,January,2016,Tuesday,Single Vehicle,yes,yes,yes,110,Pedestrian,Male,67,12,no,10,12:10
+06279716,California,September,2017,Monday,Single Vehicle,no,yes,yes,50,Driver,Male,99,1,no,30,1:30
+93878993,Florida,October,2022,Friday,Single Vehicle,yes,no,no,60,Driver,Female,97,9,no,40,9:40
+69759054,Colorado,December,2015,Saturday,Multiple Vehicle,yes,no,no,120,Pedestrian,Male,63,14,no,9,14:9
+36654131,Texas,October,2015,Monday,Multiple Vehicle,yes,yes,no,120,Motorcycle rider,Male,84,19,yes,8,19:8
+63809097,New York,December,2020,Saturday,Single Vehicle,no,no,yes,110,Driver,Male,76,18,yes,25,18:25
+36091866,Florida,July,2021,Monday,Single Vehicle,no,yes,no,50,Passenger,Male,32,23,no,11,23:11
+17597583,Rhode Island,January,2017,Thursday,Single Vehicle,no,yes,no,50,Driver,Female,94,16,yes,57,16:57
+04459600,Arizona,January,2017,Saturday,Single Vehicle,yes,no,yes,70,Passenger,Female,47,2,yes,40,2:40
+62762982,Idaho,May,2019,Thursday,Single Vehicle,yes,no,yes,50,Pedestrian,Male,84,14,yes,5,14:5
+70619812,South Carolina,June,2019,Wednesday,Multiple Vehicle,yes,no,no,100,Driver,Male,68,21,yes,52,21:52
+42847177,Florida,March,2017,Thursday,Multiple Vehicle,no,no,no,90,Pedestrian,Male,83,5,yes,41,5:41
+45705918,Missouri,March,2018,Tuesday,Multiple Vehicle,yes,yes,no,50,Passenger,Female,65,3,no,11,3:11
+72066473,Illinois,March,2016,Friday,Single Vehicle,yes,no,no,70,Driver,Female,38,19,yes,53,19:53
+12227099,Florida,November,2017,Saturday,Single Vehicle,no,yes,no,40,Driver,Female,92,1,no,29,1:29
+76578144,California,December,2019,Thursday,Single Vehicle,yes,no,yes,40,Motorcycle rider,Male,64,6,yes,31,6:31
+97480545,California,February,2015,Sunday,Multiple Vehicle,no,yes,yes,90,Motorcycle rider,Male,72,19,yes,14,19:14
+37124599,Missouri,May,2015,Saturday,Single Vehicle,no,no,yes,90,Driver,Male,63,3,yes,8,3:8
+08895804,Massachusetts,January,2020,Wednesday,Single Vehicle,no,no,yes,90,Passenger,Female,56,2,no,50,2:50
+63485263,Florida,November,2017,Thursday,Single Vehicle,yes,yes,no,80,Driver,Male,72,2,no,59,2:59
+31559143,New Jersey,February,2021,Tuesday,Multiple Vehicle,yes,no,yes,40,Driver,Male,95,20,no,16,20:16
+26985483,Louisiana,January,2019,Wednesday,Single Vehicle,no,no,yes,90,Motorcycle rider,Female,13,8,yes,48,8:48
+45989401,New York,August,2020,Monday,Multiple Vehicle,no,yes,yes,90,Pedestrian,Male,45,20,yes,55,20:55
+73344965,California,April,2015,Sunday,Single Vehicle,yes,no,yes,110,Driver,Male,70,2,no,59,2:59
+58616364,Texas,August,2018,Tuesday,Multiple Vehicle,yes,no,yes,80,Motorcycle rider,Male,23,2,no,33,2:33
+52152937,West Virginia,April,2018,Tuesday,Multiple Vehicle,no,no,no,70,Pedestrian,Female,18,12,yes,49,12:49
+38829937,Texas,October,2020,Sunday,Single Vehicle,yes,no,yes,80,Passenger,Female,67,10,yes,34,10:34
+08821221,Texas,June,2020,Tuesday,Single Vehicle,yes,yes,no,120,Motorcycle rider,Male,93,8,no,59,8:59
+72884011,Florida,March,2017,Tuesday,Single Vehicle,yes,yes,yes,110,Passenger,Male,88,9,yes,58,9:58
+02179454,New York,December,2022,Sunday,Single Vehicle,no,yes,no,100,Driver,Male,50,3,yes,6,3:6
+93024931,Indiana,April,2019,Monday,Multiple Vehicle,yes,no,yes,50,Driver,Female,18,15,no,28,15:28
+92623543,Texas,May,2019,Monday,Single Vehicle,yes,no,no,110,Pedestrian,Female,24,5,yes,6,5:6
+26196852,Florida,July,2015,Thursday,Multiple Vehicle,no,yes,yes,80,Pedestrian,Male,14,10,yes,28,10:28
+21274442,Texas,January,2015,Wednesday,Single Vehicle,yes,no,no,90,Pedestrian,Female,70,6,no,50,6:50
+99004408,Utah,March,2017,Tuesday,Single Vehicle,no,no,yes,50,Driver,Male,72,20,no,37,20:37
+52364211,California,January,2022,Wednesday,Multiple Vehicle,no,no,no,70,Motorcycle rider,Male,43,11,no,5,11:5
+68834831,New Mexico,March,2021,Wednesday,Single Vehicle,no,yes,no,70,Motorcycle rider,Male,74,8,no,1,8:1
+36566351,California,January,2021,Thursday,Multiple Vehicle,no,yes,no,120,Pedestrian,Male,57,13,yes,31,13:31
+91869994,Texas,March,2015,Saturday,Multiple Vehicle,no,yes,yes,100,Pedestrian,Female,72,20,no,18,20:18
+52385870,Maine,July,2016,Friday,Single Vehicle,no,yes,yes,120,Pedestrian,Male,16,18,yes,36,18:36
+57769521,Wisconsin,November,2021,Tuesday,Single Vehicle,yes,yes,yes,80,Driver,Female,95,5,yes,22,5:22
+38092818,District of Columbia,September,2021,Tuesday,Single Vehicle,no,yes,no,70,Motorcycle rider,Male,84,20,no,12,20:12
+56549394,North Carolina,June,2017,Sunday,Single Vehicle,no,no,yes,70,Pedestrian,Female,17,15,yes,7,15:7
+34877244,New York,August,2021,Sunday,Single Vehicle,no,no,no,90,Motorcycle rider,Male,51,11,yes,56,11:56
+38526420,California,December,2021,Friday,Multiple Vehicle,no,no,yes,120,Driver,Male,24,3,yes,6,3:6
+04075919,Delaware,March,2018,Sunday,Single Vehicle,no,yes,yes,110,Driver,Female,39,19,no,50,19:50
+13534940,California,March,2022,Thursday,Single Vehicle,no,no,no,50,Driver,Female,27,5,yes,43,5:43
+58853776,Tennessee,July,2015,Friday,Single Vehicle,yes,no,no,90,Passenger,Male,32,15,no,35,15:35
+16507862,District of Columbia,August,2017,Wednesday,Multiple Vehicle,yes,yes,yes,40,Pedestrian,Male,50,5,no,31,5:31
+76402983,Florida,August,2019,Tuesday,Multiple Vehicle,yes,yes,no,60,Passenger,Female,65,1,no,14,1:14
+93817365,Oregon,January,2017,Wednesday,Multiple Vehicle,yes,no,no,100,Passenger,Female,27,11,yes,28,11:28
+35911970,California,July,2017,Tuesday,Single Vehicle,yes,no,yes,80,Passenger,Male,39,3,no,10,3:10
+18447991,West Virginia,November,2018,Sunday,Single Vehicle,no,yes,yes,120,Motorcycle rider,Male,62,21,yes,7,21:7
+06095876,Florida,December,2022,Friday,Single Vehicle,yes,yes,yes,60,Passenger,Male,85,20,no,11,20:11
+22582235,Michigan,April,2022,Saturday,Single Vehicle,no,yes,no,110,Driver,Female,80,12,yes,21,12:21
+12389165,Connecticut,April,2018,Sunday,Single Vehicle,yes,yes,no,60,Passenger,Female,18,10,no,29,10:29
+23069073,Indiana,March,2016,Sunday,Multiple Vehicle,no,no,no,90,Driver,Female,81,5,no,24,5:24
+09553610,California,August,2015,Wednesday,Single Vehicle,yes,yes,yes,70,Passenger,Female,27,16,yes,21,16:21
+80826012,Georgia,January,2019,Sunday,Single Vehicle,no,no,yes,80,Passenger,Male,39,14,no,47,14:47
+64312008,Texas,June,2020,Sunday,Single Vehicle,no,yes,no,90,Motorcycle rider,Male,90,21,no,59,21:59
+11644359,Florida,January,2019,Saturday,Multiple Vehicle,no,yes,no,60,Motorcycle rider,Female,68,17,no,4,17:4
+79994085,Tennessee,November,2018,Friday,Single Vehicle,no,yes,no,110,Passenger,Male,82,14,no,7,14:7
+59469322,Utah,April,2019,Wednesday,Single Vehicle,yes,yes,no,100,Driver,Male,18,19,no,19,19:19
+92629903,Indiana,July,2015,Saturday,Multiple Vehicle,no,no,yes,40,Motorcycle rider,Male,98,21,yes,50,21:50
+91644134,Florida,June,2017,Sunday,Multiple Vehicle,yes,no,yes,70,Motorcycle rider,Female,82,10,yes,35,10:35
+81070484,New Mexico,October,2018,Friday,Multiple Vehicle,no,yes,yes,90,Pedestrian,Male,96,6,yes,7,6:7
+39252726,Indiana,July,2020,Wednesday,Multiple Vehicle,yes,no,yes,40,Pedestrian,Female,63,17,yes,47,17:47
+89800899,Georgia,June,2020,Thursday,Multiple Vehicle,no,no,no,60,Motorcycle rider,Female,66,16,no,7,16:7
+05941429,Delaware,April,2017,Friday,Single Vehicle,no,no,yes,70,Driver,Male,71,3,yes,46,3:46
+61872219,District of Columbia,December,2016,Saturday,Multiple Vehicle,no,no,no,90,Driver,Male,10,12,no,6,12:6
+02515907,Minnesota,February,2017,Wednesday,Single Vehicle,yes,yes,yes,50,Motorcycle rider,Male,84,12,no,23,12:23
+61292467,Montana,March,2017,Friday,Multiple Vehicle,yes,no,no,110,Pedestrian,Female,30,9,yes,3,9:3
+94529254,Connecticut,February,2020,Saturday,Single Vehicle,yes,no,yes,120,Driver,Female,53,2,no,45,2:45
+27414142,New York,March,2016,Saturday,Multiple Vehicle,yes,no,no,90,Driver,Male,47,15,yes,33,15:33
+82045522,Colorado,October,2019,Monday,Multiple Vehicle,no,yes,yes,60,Motorcycle rider,Male,43,8,no,44,8:44
+19652248,New York,January,2021,Sunday,Multiple Vehicle,yes,no,yes,80,Driver,Female,16,18,no,18,18:18
+64937367,Florida,October,2016,Wednesday,Multiple Vehicle,yes,no,yes,90,Driver,Female,67,4,yes,30,4:30
+47113996,Arkansas,September,2021,Thursday,Single Vehicle,no,yes,no,60,Pedestrian,Female,92,23,no,57,23:57
+96097055,Oklahoma,October,2022,Wednesday,Single Vehicle,yes,no,no,90,Pedestrian,Male,91,10,no,39,10:39
+78371133,Washington,April,2016,Thursday,Single Vehicle,no,no,yes,80,Pedestrian,Female,74,23,no,54,23:54
+45549325,New York,June,2022,Saturday,Single Vehicle,yes,yes,no,110,Driver,Male,52,1,yes,23,1:23
+86176171,Minnesota,March,2020,Saturday,Multiple Vehicle,yes,yes,no,60,Pedestrian,Male,30,8,yes,43,8:43
+12139396,California,February,2015,Thursday,Multiple Vehicle,no,yes,yes,90,Passenger,Male,47,21,no,55,21:55
+78064241,Illinois,June,2015,Monday,Single Vehicle,yes,no,no,50,Passenger,Male,91,11,yes,24,11:24
+55527004,Florida,November,2016,Thursday,Single Vehicle,no,no,yes,60,Pedestrian,Female,74,0,no,27,0:27
+96748915,South Dakota,August,2017,Thursday,Single Vehicle,yes,no,yes,40,Passenger,Male,15,10,yes,14,10:14
+32989465,Missouri,December,2020,Tuesday,Single Vehicle,no,no,no,40,Driver,Male,64,3,no,27,3:27
+06732793,Missouri,October,2022,Friday,Multiple Vehicle,yes,yes,yes,50,Passenger,Male,33,18,no,49,18:49
+83917855,New York,March,2017,Tuesday,Multiple Vehicle,no,yes,no,80,Passenger,Male,15,10,yes,40,10:40
+45196340,Virginia,July,2021,Monday,Multiple Vehicle,yes,no,yes,100,Driver,Female,62,12,no,50,12:50
+56722625,Louisiana,March,2015,Thursday,Multiple Vehicle,no,yes,yes,60,Driver,Female,75,5,no,28,5:28
+93300173,Missouri,July,2019,Saturday,Single Vehicle,no,yes,no,110,Driver,Male,60,1,no,37,1:37
+27959548,Massachusetts,April,2022,Friday,Single Vehicle,no,no,yes,80,Pedestrian,Male,16,20,no,14,20:14
+31695889,Missouri,September,2015,Wednesday,Single Vehicle,yes,no,no,120,Passenger,Male,78,5,no,9,5:9
+25055357,California,November,2021,Saturday,Single Vehicle,no,yes,no,70,Motorcycle rider,Female,91,10,yes,6,10:6
+47255436,Indiana,November,2020,Monday,Multiple Vehicle,no,no,no,120,Passenger,Male,77,3,no,6,3:6
+87822798,Florida,March,2020,Sunday,Single Vehicle,yes,yes,yes,110,Pedestrian,Male,28,3,yes,31,3:31
+96139429,Florida,August,2018,Sunday,Multiple Vehicle,yes,yes,yes,40,Pedestrian,Male,88,22,yes,21,22:21
+69000217,Georgia,July,2020,Wednesday,Single Vehicle,no,no,yes,60,Motorcycle rider,Female,17,2,yes,37,2:37
+76822255,West Virginia,January,2018,Monday,Multiple Vehicle,yes,no,yes,70,Motorcycle rider,Female,28,14,no,56,14:56
+37074850,Alabama,November,2016,Monday,Multiple Vehicle,yes,no,no,40,Passenger,Male,34,5,yes,40,5:40
+61704626,Tennessee,February,2019,Thursday,Single Vehicle,no,yes,no,80,Driver,Female,94,16,yes,46,16:46
+68315817,California,September,2016,Thursday,Multiple Vehicle,no,yes,yes,80,Driver,Female,34,19,no,35,19:35
+18202658,Texas,July,2016,Monday,Multiple Vehicle,yes,yes,yes,50,Passenger,Female,31,19,yes,18,19:18
+33928320,Colorado,March,2022,Tuesday,Multiple Vehicle,yes,no,no,70,Pedestrian,Male,28,15,yes,34,15:34
+54362844,New York,October,2016,Wednesday,Single Vehicle,no,yes,no,90,Pedestrian,Male,69,13,yes,14,13:14
+10553107,Tennessee,September,2018,Wednesday,Single Vehicle,yes,no,yes,110,Passenger,Male,50,15,yes,16,15:16
+77906356,Florida,February,2017,Tuesday,Multiple Vehicle,yes,no,no,60,Motorcycle rider,Female,23,9,yes,37,9:37
+58411460,Ohio,June,2018,Friday,Multiple Vehicle,no,no,no,100,Pedestrian,Female,37,17,no,44,17:44
+06740148,New York,June,2020,Monday,Multiple Vehicle,yes,yes,yes,100,Pedestrian,Female,32,4,no,7,4:7
+82360242,Ohio,January,2016,Wednesday,Multiple Vehicle,no,yes,yes,90,Passenger,Male,49,22,no,22,22:22
+28468371,Texas,May,2020,Monday,Single Vehicle,no,no,no,50,Pedestrian,Male,12,1,yes,36,1:36
+52111462,Kentucky,April,2016,Sunday,Single Vehicle,no,yes,no,60,Passenger,Male,92,3,yes,7,3:7
+28959731,New York,July,2015,Saturday,Single Vehicle,no,no,no,60,Passenger,Female,47,10,no,4,10:4
+93708104,Texas,July,2016,Friday,Multiple Vehicle,yes,no,no,110,Passenger,Female,98,13,no,16,13:16
+61722333,Florida,November,2016,Monday,Multiple Vehicle,yes,no,no,100,Motorcycle rider,Female,95,11,yes,2,11:2
+42546615,West Virginia,October,2018,Sunday,Single Vehicle,no,yes,no,50,Motorcycle rider,Female,31,20,no,45,20:45
+10527274,New York,January,2015,Sunday,Single Vehicle,no,no,yes,50,Motorcycle rider,Male,93,11,yes,14,11:14
+07333166,California,March,2018,Tuesday,Multiple Vehicle,no,no,no,70,Pedestrian,Female,64,8,yes,57,8:57
+68830757,Indiana,December,2018,Sunday,Multiple Vehicle,yes,yes,yes,100,Driver,Male,62,15,no,7,15:7
+12013976,North Carolina,March,2021,Saturday,Multiple Vehicle,yes,no,yes,40,Motorcycle rider,Female,12,20,no,28,20:28
+94939077,South Carolina,March,2018,Monday,Single Vehicle,no,yes,no,40,Motorcycle rider,Female,28,9,yes,51,9:51
+81613632,Texas,July,2018,Tuesday,Multiple Vehicle,yes,yes,yes,50,Pedestrian,Male,95,7,yes,51,7:51
+96528719,Texas,May,2015,Monday,Single Vehicle,no,yes,no,90,Driver,Female,71,12,no,18,12:18
+84819369,Colorado,July,2015,Thursday,Multiple Vehicle,no,yes,no,50,Driver,Female,90,7,no,10,7:10
+91987717,Connecticut,February,2022,Sunday,Multiple Vehicle,yes,no,yes,60,Pedestrian,Female,72,3,no,42,3:42
+27551701,Kentucky,July,2015,Friday,Single Vehicle,yes,yes,yes,80,Motorcycle rider,Male,47,10,no,0,10:0
+96165111,California,March,2015,Sunday,Single Vehicle,no,no,no,100,Driver,Female,56,17,no,23,17:23
+96130536,California,March,2017,Thursday,Multiple Vehicle,yes,yes,yes,100,Passenger,Male,19,2,no,4,2:4
+77584939,Nevada,November,2016,Thursday,Single Vehicle,yes,yes,no,90,Passenger,Male,64,18,yes,34,18:34
+29598603,Georgia,October,2016,Wednesday,Multiple Vehicle,yes,no,no,100,Driver,Male,25,17,no,37,17:37
+93504919,Florida,August,2021,Saturday,Single Vehicle,no,no,no,90,Pedestrian,Female,83,14,yes,46,14:46
+86809043,North Carolina,June,2022,Friday,Multiple Vehicle,no,no,yes,70,Motorcycle rider,Male,90,6,yes,34,6:34
+95721816,Wyoming,March,2020,Saturday,Single Vehicle,yes,yes,yes,120,Pedestrian,Male,93,9,yes,52,9:52
+20204769,California,March,2020,Thursday,Multiple Vehicle,no,no,no,50,Motorcycle rider,Female,36,8,no,6,8:6
+52505324,North Carolina,March,2020,Wednesday,Single Vehicle,yes,yes,yes,120,Driver,Female,33,4,no,43,4:43
+77853492,Ohio,October,2021,Saturday,Single Vehicle,yes,yes,no,100,Pedestrian,Female,59,8,yes,34,8:34
+67714636,Virginia,December,2018,Sunday,Single Vehicle,yes,yes,yes,40,Driver,Female,88,2,yes,45,2:45
+67528238,Tennessee,July,2019,Thursday,Multiple Vehicle,yes,yes,yes,80,Motorcycle rider,Male,50,20,no,24,20:24
+22296888,North Carolina,February,2018,Friday,Single Vehicle,yes,yes,yes,80,Driver,Female,90,4,yes,11,4:11
+86508320,Ohio,December,2018,Friday,Multiple Vehicle,yes,yes,yes,110,Pedestrian,Male,23,18,no,0,18:0
+68951337,Virginia,March,2019,Friday,Multiple Vehicle,no,no,yes,110,Pedestrian,Female,47,19,yes,15,19:15
+58040088,Colorado,March,2016,Thursday,Multiple Vehicle,yes,no,no,120,Passenger,Male,37,8,yes,45,8:45
+33445515,New York,February,2017,Monday,Multiple Vehicle,no,yes,yes,80,Driver,Male,39,14,no,9,14:9
+13073792,Georgia,November,2015,Monday,Single Vehicle,yes,no,yes,90,Passenger,Female,16,2,no,28,2:28
+11986597,Louisiana,March,2020,Saturday,Multiple Vehicle,yes,yes,yes,50,Pedestrian,Female,90,7,no,34,7:34
+64326910,New York,February,2018,Monday,Multiple Vehicle,yes,no,yes,90,Driver,Female,57,19,no,41,19:41
+34649277,Alabama,August,2020,Sunday,Single Vehicle,yes,yes,yes,70,Pedestrian,Female,40,23,no,18,23:18
+49233946,Tennessee,September,2016,Friday,Single Vehicle,no,yes,no,50,Pedestrian,Female,84,21,yes,36,21:36
+20852583,New York,November,2015,Thursday,Multiple Vehicle,yes,no,no,90,Pedestrian,Male,46,15,yes,26,15:26
+82284058,New Jersey,July,2016,Saturday,Multiple Vehicle,no,no,yes,90,Pedestrian,Female,10,14,no,4,14:4
+25115173,Florida,February,2015,Tuesday,Single Vehicle,yes,no,no,120,Driver,Female,86,12,no,59,12:59
+67964857,Kansas,June,2016,Saturday,Single Vehicle,no,yes,no,120,Driver,Female,38,22,no,2,22:2
+89723867,Kansas,March,2021,Monday,Single Vehicle,no,no,no,40,Driver,Female,51,3,yes,23,3:23
+45043022,Michigan,December,2019,Friday,Single Vehicle,yes,yes,no,50,Motorcycle rider,Female,61,23,yes,22,23:22
+54330336,New Mexico,February,2017,Tuesday,Multiple Vehicle,no,no,yes,80,Pedestrian,Female,92,15,no,25,15:25
+56467256,Texas,May,2021,Monday,Single Vehicle,yes,yes,no,120,Motorcycle rider,Female,35,15,yes,28,15:28
+78392881,Alabama,April,2022,Friday,Single Vehicle,no,no,yes,80,Pedestrian,Female,34,1,no,35,1:35
+38781321,Michigan,November,2015,Monday,Multiple Vehicle,no,no,yes,120,Motorcycle rider,Female,83,10,no,22,10:22
+72518171,New York,August,2019,Tuesday,Multiple Vehicle,no,yes,yes,40,Pedestrian,Male,75,16,yes,10,16:10
+43138987,Florida,November,2019,Sunday,Multiple Vehicle,yes,no,yes,90,Driver,Male,99,6,no,56,6:56
+10140372,Arizona,September,2019,Monday,Multiple Vehicle,yes,no,no,120,Driver,Male,38,4,no,29,4:29
+65138466,Texas,February,2017,Friday,Multiple Vehicle,yes,no,no,70,Driver,Male,65,0,no,10,0:10
+44597906,Florida,January,2018,Sunday,Multiple Vehicle,yes,no,no,90,Driver,Female,46,1,yes,48,1:48
+44376923,Wisconsin,June,2020,Friday,Multiple Vehicle,no,yes,yes,100,Driver,Male,21,3,yes,7,3:7
+45078116,Minnesota,May,2016,Thursday,Single Vehicle,no,yes,yes,60,Driver,Female,10,12,yes,17,12:17
+63639412,Tennessee,December,2019,Friday,Single Vehicle,no,yes,no,40,Passenger,Female,37,4,yes,12,4:12
+18024841,Kentucky,April,2018,Friday,Single Vehicle,yes,yes,no,120,Motorcycle rider,Female,77,0,yes,13,0:13
+94100280,Kansas,February,2020,Saturday,Single Vehicle,yes,yes,no,50,Driver,Male,35,22,yes,53,22:53
+46666042,New York,September,2019,Friday,Single Vehicle,yes,no,yes,40,Motorcycle rider,Male,22,23,no,49,23:49
+69324785,Texas,June,2022,Wednesday,Single Vehicle,no,no,no,40,Pedestrian,Male,24,0,no,6,0:6
+53582114,Washington,February,2016,Wednesday,Single Vehicle,yes,no,no,40,Motorcycle rider,Male,68,3,no,29,3:29
+69510426,Oklahoma,March,2022,Friday,Single Vehicle,no,no,no,60,Motorcycle rider,Female,55,13,no,11,13:11
+22119725,California,June,2018,Tuesday,Multiple Vehicle,yes,no,no,90,Motorcycle rider,Female,64,6,yes,9,6:9
+13156513,Texas,October,2019,Monday,Multiple Vehicle,no,yes,yes,60,Passenger,Female,92,5,no,39,5:39
+83729791,Kansas,December,2017,Thursday,Single Vehicle,no,no,no,60,Pedestrian,Male,71,6,no,1,6:1
+43886338,Tennessee,August,2017,Monday,Single Vehicle,yes,yes,yes,110,Passenger,Female,43,17,no,26,17:26
+09604153,West Virginia,January,2020,Thursday,Multiple Vehicle,no,no,no,110,Passenger,Male,68,6,yes,14,6:14
+79489442,Washington,January,2020,Thursday,Multiple Vehicle,no,yes,no,80,Driver,Female,25,5,yes,37,5:37
+78556983,Wisconsin,September,2016,Friday,Multiple Vehicle,yes,yes,yes,70,Motorcycle rider,Male,99,8,yes,52,8:52
+81283420,Arkansas,January,2018,Thursday,Multiple Vehicle,yes,yes,no,50,Motorcycle rider,Female,44,0,yes,20,0:20
+50170141,New York,April,2018,Sunday,Single Vehicle,yes,no,no,100,Driver,Male,20,6,no,30,6:30
+21837376,California,June,2015,Sunday,Single Vehicle,no,no,yes,60,Pedestrian,Female,27,4,no,3,4:3
+05510858,Indiana,August,2018,Monday,Single Vehicle,yes,yes,no,100,Passenger,Male,23,23,yes,5,23:5
+25500205,Georgia,April,2021,Thursday,Multiple Vehicle,no,yes,no,90,Motorcycle rider,Male,65,18,no,46,18:46
+98972097,Texas,February,2018,Tuesday,Single Vehicle,no,no,no,90,Motorcycle rider,Female,23,23,yes,15,23:15
+80140105,Kentucky,November,2017,Monday,Single Vehicle,yes,yes,yes,100,Motorcycle rider,Male,71,15,no,41,15:41
+09567735,New York,February,2020,Sunday,Multiple Vehicle,yes,yes,no,120,Passenger,Male,44,1,yes,55,1:55
+95632224,Oklahoma,December,2020,Tuesday,Single Vehicle,no,no,no,50,Pedestrian,Male,91,19,yes,18,19:18
+13389051,Virginia,December,2020,Monday,Single Vehicle,yes,yes,yes,90,Driver,Male,69,22,no,26,22:26
+87983245,New York,August,2018,Friday,Multiple Vehicle,no,yes,no,110,Driver,Male,33,12,no,53,12:53
+24572963,Kentucky,January,2020,Friday,Single Vehicle,no,no,yes,40,Pedestrian,Female,95,0,yes,33,0:33
+43238224,Tennessee,August,2015,Tuesday,Multiple Vehicle,yes,no,yes,50,Motorcycle rider,Female,53,9,yes,50,9:50
+06067969,Florida,April,2016,Monday,Multiple Vehicle,no,no,yes,40,Motorcycle rider,Male,85,5,yes,58,5:58
+47772663,Ohio,March,2022,Friday,Multiple Vehicle,no,no,yes,120,Driver,Female,98,17,yes,15,17:15
+43611118,Kentucky,December,2015,Thursday,Single Vehicle,no,no,no,40,Driver,Male,50,5,yes,46,5:46
+88128998,Texas,June,2022,Tuesday,Multiple Vehicle,no,no,no,80,Driver,Male,58,4,yes,18,4:18
+23485354,Missouri,March,2022,Thursday,Single Vehicle,no,yes,yes,80,Passenger,Female,21,3,no,28,3:28
+20811312,District of Columbia,October,2022,Wednesday,Single Vehicle,yes,no,yes,100,Pedestrian,Female,64,20,no,5,20:5
+26479299,Tennessee,September,2018,Monday,Single Vehicle,no,yes,no,100,Driver,Female,37,12,no,0,12:0
+54782188,California,February,2017,Thursday,Multiple Vehicle,yes,no,no,50,Driver,Female,69,13,no,13,13:13
+25118031,Connecticut,September,2021,Friday,Multiple Vehicle,no,yes,yes,60,Driver,Female,25,9,no,8,9:8
+28350173,Virginia,September,2015,Thursday,Single Vehicle,no,no,no,80,Pedestrian,Male,83,18,no,56,18:56
+90930234,California,September,2022,Friday,Multiple Vehicle,yes,yes,yes,110,Driver,Female,95,22,no,1,22:1
+41884601,Florida,April,2015,Wednesday,Multiple Vehicle,no,yes,no,40,Pedestrian,Female,81,0,no,17,0:17
+15256454,New York,March,2021,Friday,Multiple Vehicle,yes,no,no,100,Driver,Female,56,9,no,12,9:12
+27698782,Texas,August,2020,Tuesday,Single Vehicle,yes,yes,yes,70,Pedestrian,Male,39,18,yes,22,18:22
+01523742,Illinois,May,2020,Friday,Single Vehicle,yes,no,no,50,Pedestrian,Male,43,0,no,15,0:15
+43214535,Georgia,January,2022,Saturday,Single Vehicle,no,no,no,80,Pedestrian,Male,88,22,yes,29,22:29
+14014418,Florida,August,2017,Monday,Single Vehicle,no,no,yes,60,Pedestrian,Male,85,7,yes,18,7:18
+36324619,Florida,August,2016,Tuesday,Multiple Vehicle,yes,no,yes,90,Motorcycle rider,Male,65,10,no,50,10:50
+28802641,Colorado,October,2018,Wednesday,Single Vehicle,yes,yes,no,90,Passenger,Male,18,7,no,56,7:56
+44441278,Colorado,February,2018,Thursday,Multiple Vehicle,yes,no,no,120,Driver,Female,78,1,no,31,1:31
+41203817,California,October,2022,Saturday,Multiple Vehicle,yes,no,no,120,Pedestrian,Male,27,18,yes,23,18:23
+00525774,Texas,October,2018,Wednesday,Multiple Vehicle,no,no,yes,80,Driver,Female,73,21,no,49,21:49
+11758597,Pennsylvania,June,2018,Wednesday,Single Vehicle,no,no,yes,70,Pedestrian,Male,23,14,yes,21,14:21
+33845446,Pennsylvania,June,2019,Thursday,Multiple Vehicle,yes,yes,no,50,Motorcycle rider,Female,49,0,no,42,0:42
+88696495,Missouri,August,2022,Saturday,Multiple Vehicle,no,yes,yes,110,Motorcycle rider,Male,70,2,no,57,2:57
+97734255,Virginia,June,2019,Wednesday,Single Vehicle,yes,no,yes,60,Motorcycle rider,Male,31,11,yes,38,11:38
+20645274,Florida,July,2020,Friday,Single Vehicle,no,yes,no,40,Pedestrian,Male,39,6,no,5,6:5
+99657586,Connecticut,May,2020,Monday,Multiple Vehicle,yes,no,yes,60,Motorcycle rider,Male,60,11,no,9,11:9
+65235214,New York,July,2019,Sunday,Single Vehicle,no,yes,yes,80,Passenger,Male,92,11,no,49,11:49
+82994715,Texas,December,2022,Wednesday,Single Vehicle,yes,no,yes,50,Passenger,Female,33,3,yes,38,3:38
+59220714,Hawaii,October,2019,Tuesday,Multiple Vehicle,yes,no,no,70,Passenger,Female,55,5,yes,14,5:14
+51378022,Texas,December,2015,Sunday,Multiple Vehicle,yes,no,no,80,Pedestrian,Male,37,19,no,43,19:43
+37627649,Kentucky,September,2019,Thursday,Single Vehicle,no,no,yes,120,Passenger,Female,89,6,no,6,6:6
+06265372,California,January,2018,Thursday,Multiple Vehicle,no,yes,no,100,Passenger,Male,18,15,no,36,15:36
+34804195,Tennessee,February,2020,Wednesday,Single Vehicle,yes,no,no,100,Passenger,Male,52,8,yes,49,8:49
+16311776,Wisconsin,October,2020,Thursday,Multiple Vehicle,yes,no,no,40,Driver,Male,13,13,no,5,13:5
+39996662,Montana,April,2022,Wednesday,Multiple Vehicle,no,yes,no,70,Pedestrian,Male,87,19,no,9,19:9
+37045045,Georgia,May,2016,Thursday,Single Vehicle,yes,no,yes,50,Pedestrian,Male,22,3,no,42,3:42
+37726338,South Carolina,November,2016,Tuesday,Multiple Vehicle,yes,no,no,90,Pedestrian,Female,62,1,yes,37,1:37
+22164713,Iowa,October,2022,Monday,Multiple Vehicle,yes,no,no,80,Passenger,Male,41,9,yes,46,9:46
+53570042,Illinois,January,2018,Thursday,Multiple Vehicle,no,yes,yes,90,Motorcycle rider,Male,48,3,no,48,3:48
+87210358,Colorado,March,2018,Sunday,Multiple Vehicle,yes,yes,no,80,Driver,Female,32,14,yes,23,14:23
+93935023,Kentucky,November,2019,Saturday,Single Vehicle,no,yes,yes,40,Pedestrian,Male,29,4,yes,5,4:5
+92603968,Indiana,May,2019,Friday,Single Vehicle,yes,no,no,40,Motorcycle rider,Female,59,9,yes,41,9:41
+08853768,New York,July,2022,Friday,Multiple Vehicle,yes,no,no,80,Motorcycle rider,Male,57,0,yes,29,0:29
+87679109,Texas,December,2020,Saturday,Single Vehicle,yes,yes,yes,60,Pedestrian,Female,62,4,yes,30,4:30
+53685609,Ohio,March,2017,Saturday,Single Vehicle,yes,yes,no,40,Passenger,Male,66,3,no,2,3:2
+17362024,Pennsylvania,June,2018,Tuesday,Multiple Vehicle,yes,yes,yes,50,Pedestrian,Male,49,0,yes,24,0:24
+49565511,New Jersey,October,2019,Saturday,Single Vehicle,no,no,yes,70,Driver,Male,95,7,yes,44,7:44
+58844587,Arkansas,June,2017,Saturday,Single Vehicle,yes,yes,yes,70,Motorcycle rider,Female,73,17,no,24,17:24
+07901651,Illinois,February,2019,Wednesday,Single Vehicle,yes,no,no,110,Passenger,Female,45,10,yes,45,10:45
+34261526,New York,February,2020,Sunday,Single Vehicle,yes,yes,yes,80,Passenger,Male,48,9,yes,49,9:49
+26557605,Kansas,June,2015,Monday,Single Vehicle,yes,no,yes,120,Driver,Male,88,2,no,26,2:26
+30458889,Massachusetts,October,2015,Tuesday,Single Vehicle,no,yes,no,60,Passenger,Male,32,23,yes,24,23:24
+02889922,New York,April,2016,Wednesday,Multiple Vehicle,no,no,yes,60,Driver,Male,34,20,yes,31,20:31
+48253450,Kentucky,May,2017,Saturday,Multiple Vehicle,no,yes,yes,120,Driver,Female,80,20,yes,6,20:6
+52269272,Nevada,February,2021,Friday,Single Vehicle,no,yes,yes,50,Pedestrian,Female,55,4,no,27,4:27
+66964845,Washington,March,2015,Wednesday,Multiple Vehicle,no,no,yes,60,Driver,Male,85,18,no,4,18:4
+78843845,Colorado,December,2017,Friday,Multiple Vehicle,no,no,no,120,Driver,Female,20,4,no,0,4:0
+40899738,Florida,March,2016,Tuesday,Single Vehicle,no,yes,no,110,Pedestrian,Female,61,21,no,39,21:39
+41867677,Pennsylvania,May,2018,Tuesday,Single Vehicle,no,no,yes,90,Pedestrian,Female,55,7,yes,41,7:41
+36550484,Texas,January,2016,Tuesday,Single Vehicle,no,no,no,50,Pedestrian,Female,87,20,yes,0,20:0
+38953433,Arizona,July,2016,Tuesday,Single Vehicle,yes,yes,no,120,Motorcycle rider,Male,39,8,yes,57,8:57
+70824877,Louisiana,September,2022,Wednesday,Multiple Vehicle,yes,no,no,100,Pedestrian,Female,73,4,yes,19,4:19
+38714500,District of Columbia,December,2016,Friday,Multiple Vehicle,no,no,yes,110,Driver,Male,79,18,yes,59,18:59
+34977999,Alabama,May,2021,Tuesday,Single Vehicle,yes,yes,yes,100,Motorcycle rider,Male,49,15,no,22,15:22
+44801984,Louisiana,October,2019,Saturday,Single Vehicle,yes,yes,yes,90,Passenger,Female,69,1,no,41,1:41
+83406508,Connecticut,November,2016,Sunday,Single Vehicle,no,yes,no,70,Motorcycle rider,Female,71,14,no,51,14:51
+50586107,Florida,February,2017,Saturday,Multiple Vehicle,no,no,no,120,Driver,Female,15,7,yes,10,7:10
+32873654,Massachusetts,May,2018,Thursday,Multiple Vehicle,no,yes,yes,60,Pedestrian,Male,45,3,yes,31,3:31
+73574633,Washington,March,2022,Tuesday,Single Vehicle,yes,no,yes,60,Driver,Female,61,16,no,42,16:42
+62572741,Texas,October,2019,Thursday,Single Vehicle,yes,no,no,70,Passenger,Male,34,10,yes,29,10:29
+47163001,Virginia,March,2017,Tuesday,Single Vehicle,no,yes,no,90,Pedestrian,Male,66,4,no,48,4:48
+20413763,Kentucky,September,2016,Thursday,Multiple Vehicle,yes,yes,yes,100,Passenger,Female,21,8,no,18,8:18
+54699497,Texas,June,2022,Thursday,Single Vehicle,yes,no,no,40,Pedestrian,Male,59,20,no,50,20:50
+76505628,South Carolina,November,2018,Sunday,Single Vehicle,no,no,no,100,Passenger,Male,64,1,yes,24,1:24
+00043587,Florida,March,2016,Wednesday,Multiple Vehicle,no,yes,yes,110,Pedestrian,Male,49,1,yes,9,1:9
+82749818,Texas,February,2016,Wednesday,Multiple Vehicle,yes,no,no,80,Driver,Female,40,6,yes,38,6:38
+88758777,District of Columbia,September,2020,Saturday,Single Vehicle,yes,yes,no,70,Pedestrian,Male,69,1,yes,8,1:8
+24774099,Louisiana,June,2021,Tuesday,Multiple Vehicle,yes,no,yes,110,Pedestrian,Male,30,17,no,18,17:18
+40874744,Colorado,November,2021,Wednesday,Multiple Vehicle,no,yes,no,70,Passenger,Female,45,4,yes,29,4:29
+64177940,Missouri,June,2021,Wednesday,Single Vehicle,yes,no,yes,80,Passenger,Male,98,3,yes,6,3:6
+44018607,Texas,August,2020,Tuesday,Multiple Vehicle,yes,no,no,50,Pedestrian,Male,73,22,yes,48,22:48
+31159494,California,April,2015,Saturday,Multiple Vehicle,yes,yes,yes,60,Driver,Female,19,19,no,6,19:6
+47712627,Tennessee,January,2020,Saturday,Single Vehicle,yes,no,no,110,Motorcycle rider,Male,56,0,yes,25,0:25
+21084357,New York,August,2020,Wednesday,Multiple Vehicle,no,no,no,80,Motorcycle rider,Female,85,6,yes,47,6:47
+38995616,Texas,August,2016,Tuesday,Single Vehicle,no,no,yes,70,Motorcycle rider,Male,54,21,yes,15,21:15
+20808595,Utah,November,2016,Friday,Single Vehicle,yes,yes,no,100,Driver,Female,88,10,yes,4,10:4
+52477555,Virginia,May,2019,Monday,Multiple Vehicle,no,no,no,60,Pedestrian,Male,85,22,no,44,22:44
+57166334,Texas,November,2017,Wednesday,Single Vehicle,no,no,no,120,Motorcycle rider,Male,35,18,no,28,18:28
+60922320,Texas,April,2019,Thursday,Multiple Vehicle,yes,no,yes,40,Motorcycle rider,Female,69,0,no,5,0:5
+26719508,Illinois,September,2022,Thursday,Single Vehicle,no,yes,no,90,Passenger,Female,24,16,yes,4,16:4
+86452189,Texas,February,2017,Sunday,Multiple Vehicle,yes,no,no,80,Motorcycle rider,Female,91,16,yes,27,16:27
+65402778,California,May,2015,Saturday,Multiple Vehicle,no,yes,yes,110,Driver,Male,61,6,no,38,6:38
+55729017,West Virginia,February,2020,Thursday,Multiple Vehicle,yes,yes,no,40,Motorcycle rider,Male,47,10,no,10,10:10
+38259239,Florida,August,2021,Tuesday,Multiple Vehicle,yes,no,no,40,Driver,Male,100,11,yes,55,11:55
+44698732,Texas,July,2015,Monday,Multiple Vehicle,yes,yes,yes,80,Pedestrian,Female,48,1,no,58,1:58
+16347424,Illinois,October,2019,Friday,Single Vehicle,no,no,no,60,Driver,Female,42,20,no,14,20:14
+05655084,New Mexico,April,2022,Sunday,Multiple Vehicle,no,yes,no,40,Driver,Male,30,13,no,25,13:25
+92846069,Illinois,September,2019,Thursday,Multiple Vehicle,no,no,yes,100,Passenger,Male,77,17,no,28,17:28
+00977819,Florida,October,2015,Tuesday,Single Vehicle,no,no,no,90,Driver,Male,45,3,yes,10,3:10
+39710639,Alabama,June,2018,Monday,Multiple Vehicle,no,no,yes,40,Passenger,Male,60,4,no,6,4:6
+39494178,Virginia,July,2018,Thursday,Single Vehicle,yes,no,no,60,Pedestrian,Female,63,15,yes,6,15:6
+64263781,Florida,November,2016,Thursday,Single Vehicle,no,no,no,80,Pedestrian,Male,69,1,no,22,1:22
+95396743,Maryland,April,2021,Wednesday,Multiple Vehicle,no,no,no,50,Motorcycle rider,Female,87,23,yes,53,23:53
+91448908,Wisconsin,August,2020,Friday,Multiple Vehicle,yes,no,no,100,Motorcycle rider,Male,79,13,yes,33,13:33
+00333721,Colorado,March,2022,Monday,Multiple Vehicle,yes,yes,yes,90,Passenger,Male,96,23,no,23,23:23
+81054499,Texas,August,2017,Friday,Single Vehicle,yes,no,no,70,Pedestrian,Female,88,11,no,3,11:3
+77725295,Arkansas,April,2019,Friday,Multiple Vehicle,no,no,no,90,Passenger,Female,17,2,no,31,2:31
+23545614,Nevada,September,2018,Tuesday,Multiple Vehicle,no,no,no,70,Passenger,Male,90,6,no,58,6:58
+44244818,Georgia,February,2019,Saturday,Multiple Vehicle,no,no,no,110,Passenger,Male,80,11,yes,28,11:28
+48648754,Colorado,February,2017,Tuesday,Multiple Vehicle,no,yes,no,80,Pedestrian,Male,43,1,no,6,1:6
+19871030,Texas,October,2017,Saturday,Single Vehicle,no,no,no,90,Passenger,Male,60,23,yes,41,23:41
+89264912,California,August,2016,Saturday,Multiple Vehicle,no,no,yes,90,Passenger,Female,90,19,no,56,19:56
+90362568,Tennessee,May,2018,Monday,Multiple Vehicle,yes,yes,no,50,Pedestrian,Female,46,14,no,11,14:11
+96616350,Connecticut,January,2018,Sunday,Single Vehicle,yes,yes,yes,120,Motorcycle rider,Male,96,14,no,42,14:42
+89967342,Florida,August,2017,Tuesday,Single Vehicle,no,yes,no,40,Driver,Male,62,14,no,2,14:2
+15955272,California,October,2019,Friday,Multiple Vehicle,yes,yes,no,90,Passenger,Female,46,0,no,32,0:32
+09553911,Florida,November,2017,Saturday,Single Vehicle,no,no,yes,70,Driver,Male,22,7,no,8,7:8
+72389361,California,November,2018,Thursday,Multiple Vehicle,no,yes,no,40,Driver,Female,89,9,no,16,9:16
+78394426,Ohio,December,2021,Sunday,Single Vehicle,no,no,yes,80,Driver,Female,17,20,no,22,20:22
+21196990,Texas,April,2022,Saturday,Multiple Vehicle,no,yes,yes,90,Motorcycle rider,Male,60,12,no,36,12:36
+43344402,Pennsylvania,October,2017,Tuesday,Single Vehicle,yes,yes,yes,60,Driver,Male,98,19,yes,47,19:47
+42203184,Kansas,January,2022,Sunday,Multiple Vehicle,no,yes,no,90,Driver,Male,56,4,no,16,4:16
+93758405,New York,February,2016,Saturday,Multiple Vehicle,yes,yes,no,100,Driver,Male,25,21,yes,47,21:47
+89559551,District of Columbia,December,2020,Monday,Single Vehicle,yes,no,no,60,Driver,Male,66,7,no,49,7:49
+15243385,Florida,June,2020,Monday,Multiple Vehicle,no,yes,no,110,Motorcycle rider,Male,45,6,yes,0,6:0
+27129521,California,August,2020,Monday,Single Vehicle,yes,yes,yes,120,Motorcycle rider,Female,56,21,yes,33,21:33
+81831438,Oregon,October,2017,Monday,Multiple Vehicle,no,no,yes,70,Pedestrian,Female,19,23,yes,47,23:47
+98285622,Colorado,May,2017,Sunday,Multiple Vehicle,yes,yes,yes,100,Passenger,Male,53,22,no,48,22:48
+46798408,Virginia,September,2020,Wednesday,Multiple Vehicle,yes,yes,yes,60,Passenger,Female,44,3,no,26,3:26
+13019036,Nevada,January,2016,Thursday,Multiple Vehicle,no,no,yes,110,Driver,Male,46,2,no,46,2:46
+49549524,Tennessee,April,2015,Friday,Single Vehicle,yes,no,no,100,Motorcycle rider,Female,35,2,yes,42,2:42
+01532893,New Jersey,May,2018,Monday,Multiple Vehicle,yes,yes,yes,100,Passenger,Male,26,5,yes,0,5:0
+60304288,Ohio,September,2018,Sunday,Single Vehicle,no,no,yes,120,Driver,Female,31,3,yes,3,3:3
+66527137,Nebraska,December,2022,Friday,Single Vehicle,no,no,yes,70,Pedestrian,Male,84,6,yes,17,6:17
+39865580,California,October,2020,Saturday,Single Vehicle,no,yes,no,50,Pedestrian,Female,35,7,no,51,7:51
+72877463,Texas,December,2020,Friday,Single Vehicle,yes,yes,no,70,Motorcycle rider,Female,60,22,no,39,22:39
+81952138,California,December,2017,Saturday,Single Vehicle,yes,no,no,50,Passenger,Female,11,16,yes,38,16:38
+29713095,Florida,March,2018,Saturday,Single Vehicle,yes,no,yes,80,Passenger,Female,38,0,yes,27,0:27
+02746863,Virginia,July,2020,Wednesday,Single Vehicle,no,no,no,100,Driver,Female,49,15,yes,14,15:14
+96217160,New York,June,2021,Saturday,Multiple Vehicle,no,yes,no,90,Pedestrian,Male,91,15,yes,10,15:10
+38976606,South Carolina,March,2018,Wednesday,Single Vehicle,yes,no,no,120,Pedestrian,Male,17,9,yes,13,9:13
+93393025,Colorado,May,2022,Tuesday,Single Vehicle,no,no,no,60,Passenger,Male,19,14,no,53,14:53
+48193634,California,April,2022,Monday,Single Vehicle,no,yes,no,60,Driver,Male,47,7,no,25,7:25
+32993250,California,December,2021,Monday,Multiple Vehicle,no,no,no,70,Motorcycle rider,Male,24,1,no,0,1:0
+05538528,Connecticut,September,2021,Friday,Single Vehicle,yes,no,no,50,Driver,Male,16,2,no,17,2:17
+20812514,California,May,2016,Thursday,Multiple Vehicle,yes,no,no,120,Passenger,Male,93,21,no,17,21:17
+27336376,Arkansas,October,2021,Wednesday,Multiple Vehicle,yes,yes,no,60,Motorcycle rider,Female,96,2,no,54,2:54
+13009593,California,September,2018,Sunday,Multiple Vehicle,no,yes,no,80,Motorcycle rider,Female,98,1,yes,46,1:46
+81661785,District of Columbia,April,2021,Thursday,Single Vehicle,yes,no,yes,100,Motorcycle rider,Male,99,13,no,56,13:56
+13506455,Missouri,September,2017,Wednesday,Single Vehicle,yes,yes,no,40,Driver,Male,53,16,yes,17,16:17
+52714360,Virginia,June,2019,Sunday,Single Vehicle,no,yes,yes,50,Passenger,Female,40,10,yes,9,10:9
+92572688,Louisiana,October,2021,Thursday,Single Vehicle,no,no,yes,70,Pedestrian,Female,77,0,yes,31,0:31
+49832086,Colorado,January,2020,Sunday,Multiple Vehicle,yes,yes,no,50,Pedestrian,Female,11,13,yes,28,13:28
+39734122,Georgia,September,2015,Sunday,Single Vehicle,no,no,no,40,Pedestrian,Female,28,16,yes,25,16:25
+19040924,Florida,October,2017,Friday,Single Vehicle,no,yes,yes,120,Driver,Male,59,8,no,8,8:8
+37667215,New York,November,2019,Tuesday,Multiple Vehicle,no,no,no,50,Motorcycle rider,Female,60,3,yes,4,3:4
+81658984,Washington,March,2017,Sunday,Multiple Vehicle,yes,yes,yes,60,Motorcycle rider,Male,97,15,no,19,15:19
+46623832,Virginia,December,2018,Wednesday,Single Vehicle,no,no,yes,110,Passenger,Male,14,14,yes,4,14:4
+06015579,California,February,2020,Thursday,Multiple Vehicle,no,yes,yes,90,Motorcycle rider,Female,37,1,no,8,1:8
+48502321,Virginia,June,2020,Friday,Single Vehicle,yes,no,yes,80,Pedestrian,Male,43,14,no,14,14:14
+30997634,Tennessee,September,2018,Thursday,Multiple Vehicle,yes,yes,no,90,Passenger,Female,91,13,yes,18,13:18
+15552669,Maryland,April,2022,Monday,Multiple Vehicle,yes,yes,yes,90,Driver,Male,56,5,yes,7,5:7
+03647482,Iowa,December,2019,Thursday,Multiple Vehicle,yes,yes,yes,110,Driver,Male,40,4,no,2,4:2
+11414695,District of Columbia,October,2017,Monday,Single Vehicle,yes,no,yes,110,Pedestrian,Female,63,17,yes,3,17:3
+60522640,Texas,April,2020,Wednesday,Single Vehicle,no,no,no,40,Driver,Female,63,23,no,19,23:19
+06924198,Kansas,April,2018,Monday,Multiple Vehicle,no,yes,yes,120,Driver,Male,95,17,yes,50,17:50
+37247739,Missouri,November,2016,Tuesday,Multiple Vehicle,no,yes,yes,40,Pedestrian,Male,89,11,yes,44,11:44
+68520232,Iowa,December,2015,Friday,Single Vehicle,no,yes,no,120,Driver,Male,48,14,no,14,14:14
+30313824,Pennsylvania,July,2018,Monday,Multiple Vehicle,no,yes,yes,60,Motorcycle rider,Male,72,15,yes,20,15:20
+49330467,Oklahoma,May,2019,Sunday,Single Vehicle,no,no,yes,120,Motorcycle rider,Male,39,2,no,38,2:38
+80635212,New Mexico,November,2019,Thursday,Multiple Vehicle,no,yes,no,110,Passenger,Female,59,5,no,52,5:52
+68735726,California,November,2016,Friday,Multiple Vehicle,yes,yes,yes,50,Passenger,Male,86,15,yes,9,15:9
+96237657,Connecticut,October,2019,Saturday,Multiple Vehicle,no,no,no,110,Driver,Female,60,12,yes,6,12:6
+44353188,Florida,April,2018,Tuesday,Multiple Vehicle,no,no,yes,100,Motorcycle rider,Female,47,1,yes,29,1:29
+63781345,Tennessee,October,2017,Monday,Single Vehicle,no,yes,yes,100,Passenger,Male,87,3,no,10,3:10
+43114506,Texas,August,2019,Sunday,Multiple Vehicle,yes,yes,no,120,Driver,Female,78,13,no,22,13:22
+48681932,Texas,September,2019,Wednesday,Multiple Vehicle,yes,yes,no,60,Pedestrian,Male,33,23,no,57,23:57
+99597775,Texas,March,2020,Wednesday,Multiple Vehicle,no,no,no,80,Pedestrian,Female,42,19,yes,6,19:6
+82739034,Virginia,March,2022,Wednesday,Single Vehicle,yes,no,no,100,Pedestrian,Female,30,7,yes,4,7:4
+19197404,Florida,May,2021,Monday,Multiple Vehicle,yes,no,no,100,Passenger,Female,60,3,yes,34,3:34
+87362517,Nevada,November,2019,Friday,Multiple Vehicle,no,no,yes,70,Passenger,Female,71,5,no,53,5:53
+46149012,Minnesota,October,2018,Monday,Single Vehicle,yes,yes,no,80,Driver,Male,37,7,no,54,7:54
+51718040,Florida,April,2018,Saturday,Multiple Vehicle,no,no,yes,80,Passenger,Male,35,18,yes,20,18:20
+56436502,New York,September,2020,Thursday,Single Vehicle,no,yes,yes,80,Motorcycle rider,Male,78,12,yes,39,12:39
+08388707,Pennsylvania,March,2018,Saturday,Single Vehicle,no,yes,yes,70,Motorcycle rider,Male,100,16,no,41,16:41
+00010017,District of Columbia,May,2021,Monday,Multiple Vehicle,no,no,yes,50,Motorcycle rider,Female,96,11,no,37,11:37
+74096477,New York,August,2017,Monday,Multiple Vehicle,yes,yes,yes,110,Passenger,Female,20,6,no,17,6:17
+00015101,California,June,2017,Saturday,Multiple Vehicle,no,yes,yes,50,Pedestrian,Male,39,12,yes,17,12:17
+83452154,West Virginia,April,2021,Tuesday,Multiple Vehicle,no,yes,yes,120,Pedestrian,Male,68,17,yes,49,17:49
+01463792,Florida,December,2016,Sunday,Single Vehicle,yes,no,no,70,Passenger,Female,100,3,yes,14,3:14
+28243026,Texas,March,2016,Tuesday,Multiple Vehicle,no,no,yes,100,Pedestrian,Female,95,22,yes,0,22:0
+24813502,Hawaii,October,2016,Wednesday,Single Vehicle,yes,no,no,120,Passenger,Female,70,14,no,9,14:9
+93579108,Illinois,July,2018,Saturday,Multiple Vehicle,yes,yes,yes,100,Passenger,Female,82,23,yes,31,23:31
+33763928,Maryland,November,2022,Monday,Multiple Vehicle,yes,yes,yes,80,Passenger,Male,25,17,yes,54,17:54
+96357760,South Carolina,April,2018,Sunday,Multiple Vehicle,yes,yes,yes,90,Pedestrian,Female,40,13,yes,3,13:3
+47628925,Alabama,April,2018,Saturday,Multiple Vehicle,no,yes,no,100,Pedestrian,Female,98,5,yes,41,5:41
+50060488,Oklahoma,February,2015,Saturday,Multiple Vehicle,no,no,no,70,Motorcycle rider,Female,34,23,yes,50,23:50
+81013141,Oklahoma,September,2019,Saturday,Single Vehicle,yes,no,yes,120,Driver,Female,46,18,no,24,18:24
+43617676,Connecticut,April,2016,Friday,Multiple Vehicle,no,no,yes,50,Pedestrian,Male,80,3,no,4,3:4
+96758080,Texas,September,2015,Wednesday,Multiple Vehicle,yes,yes,yes,40,Passenger,Female,68,13,no,17,13:17
+19342091,California,July,2021,Sunday,Single Vehicle,no,yes,no,80,Pedestrian,Female,14,1,no,5,1:5
+64974633,Pennsylvania,April,2015,Friday,Single Vehicle,no,yes,no,120,Motorcycle rider,Female,78,21,no,5,21:5
+95862010,Missouri,September,2018,Thursday,Single Vehicle,no,no,yes,100,Pedestrian,Male,81,10,yes,50,10:50
+29367437,Arizona,June,2021,Wednesday,Multiple Vehicle,yes,yes,no,80,Driver,Male,34,1,yes,48,1:48
+82642638,District of Columbia,December,2020,Wednesday,Single Vehicle,no,yes,no,100,Pedestrian,Male,75,15,no,23,15:23
+02702567,California,August,2021,Sunday,Single Vehicle,no,no,no,40,Motorcycle rider,Male,79,14,no,7,14:7
+82675258,Alabama,January,2020,Tuesday,Multiple Vehicle,yes,no,no,120,Pedestrian,Female,50,1,yes,45,1:45
+17593648,Louisiana,November,2016,Friday,Single Vehicle,yes,no,no,80,Passenger,Female,86,14,yes,33,14:33
+94018764,North Carolina,April,2021,Saturday,Multiple Vehicle,yes,yes,yes,50,Motorcycle rider,Female,45,0,no,55,0:55
+49008955,Illinois,July,2018,Saturday,Multiple Vehicle,yes,yes,no,120,Pedestrian,Male,92,17,no,1,17:1
+78657024,Ohio,September,2015,Tuesday,Multiple Vehicle,no,no,yes,60,Motorcycle rider,Female,98,22,yes,29,22:29
+48842624,Arizona,March,2015,Thursday,Single Vehicle,yes,no,yes,110,Passenger,Male,56,11,no,54,11:54
+01223433,Texas,January,2020,Wednesday,Multiple Vehicle,yes,no,no,120,Motorcycle rider,Female,57,19,yes,24,19:24
+37168942,New York,August,2017,Saturday,Single Vehicle,no,yes,no,110,Driver,Female,59,16,yes,43,16:43
+18782930,California,February,2016,Sunday,Single Vehicle,no,no,yes,90,Pedestrian,Female,95,18,no,14,18:14
+21559990,New York,October,2022,Sunday,Single Vehicle,no,yes,no,40,Driver,Female,81,2,no,53,2:53
+53596007,Texas,March,2015,Wednesday,Single Vehicle,no,yes,no,70,Pedestrian,Female,29,1,yes,24,1:24
+89871559,California,December,2017,Thursday,Multiple Vehicle,yes,yes,yes,50,Passenger,Male,34,15,no,7,15:7
+62170847,Virginia,February,2019,Tuesday,Single Vehicle,no,no,no,40,Pedestrian,Female,55,9,no,55,9:55
+39298659,Texas,November,2017,Saturday,Multiple Vehicle,yes,yes,yes,40,Driver,Male,86,20,yes,6,20:6
+72431594,Minnesota,August,2020,Wednesday,Single Vehicle,yes,no,no,120,Passenger,Male,44,22,yes,1,22:1
+92572262,Texas,August,2022,Tuesday,Multiple Vehicle,yes,yes,no,100,Driver,Male,48,18,no,10,18:10
+16464493,Illinois,February,2019,Wednesday,Multiple Vehicle,yes,yes,no,70,Driver,Female,50,23,no,3,23:3
+42449227,Florida,December,2017,Friday,Multiple Vehicle,yes,no,yes,60,Motorcycle rider,Female,21,13,yes,43,13:43
+11921967,New York,February,2021,Monday,Single Vehicle,yes,yes,no,100,Driver,Female,30,10,no,52,10:52
+49666395,Ohio,July,2016,Thursday,Multiple Vehicle,yes,yes,no,90,Driver,Male,20,3,no,6,3:6
+02042222,New York,January,2017,Sunday,Single Vehicle,no,yes,no,100,Passenger,Female,91,4,yes,43,4:43
+86986076,Michigan,March,2017,Friday,Multiple Vehicle,yes,no,yes,110,Pedestrian,Male,46,11,no,59,11:59
+12639564,New York,November,2017,Friday,Single Vehicle,yes,no,no,90,Driver,Male,12,6,no,7,6:7
+27634451,Florida,August,2022,Tuesday,Multiple Vehicle,no,no,no,50,Passenger,Female,20,15,yes,59,15:59
+34336588,New York,January,2022,Tuesday,Multiple Vehicle,yes,yes,no,80,Pedestrian,Female,72,4,no,17,4:17
+10809465,North Carolina,October,2019,Sunday,Single Vehicle,yes,yes,no,80,Motorcycle rider,Male,30,11,no,4,11:4
+56874166,West Virginia,December,2017,Monday,Multiple Vehicle,no,no,no,90,Passenger,Male,56,2,no,46,2:46
+36338913,Florida,April,2018,Friday,Single Vehicle,yes,no,no,70,Passenger,Male,36,2,yes,53,2:53
+47876421,California,July,2016,Saturday,Multiple Vehicle,no,yes,no,40,Motorcycle rider,Male,82,4,yes,5,4:5
+45578096,Montana,September,2017,Saturday,Multiple Vehicle,no,yes,yes,110,Passenger,Female,30,0,no,8,0:8
+48003102,Alabama,April,2017,Monday,Multiple Vehicle,yes,yes,yes,40,Motorcycle rider,Male,51,6,yes,44,6:44
+75338231,California,August,2015,Wednesday,Single Vehicle,yes,yes,no,80,Passenger,Female,41,0,no,7,0:7
+19575674,Ohio,March,2016,Saturday,Single Vehicle,no,yes,no,100,Motorcycle rider,Male,94,20,no,55,20:55
+64400321,South Carolina,July,2015,Saturday,Multiple Vehicle,no,no,yes,50,Driver,Male,83,5,yes,29,5:29
+68188394,Minnesota,January,2015,Thursday,Multiple Vehicle,yes,yes,no,80,Motorcycle rider,Female,72,14,yes,39,14:39
+50115319,New Mexico,September,2018,Saturday,Single Vehicle,yes,no,no,60,Driver,Female,37,16,no,34,16:34
+37654393,Georgia,April,2022,Sunday,Multiple Vehicle,no,yes,yes,50,Motorcycle rider,Female,65,22,yes,16,22:16
+95770552,Kentucky,October,2020,Sunday,Multiple Vehicle,yes,no,no,120,Pedestrian,Male,64,12,no,17,12:17
+56690213,Texas,June,2017,Friday,Single Vehicle,yes,yes,yes,100,Pedestrian,Male,14,4,no,23,4:23
+44755341,Virginia,September,2022,Tuesday,Single Vehicle,yes,yes,no,110,Motorcycle rider,Male,10,18,no,23,18:23
+16878430,North Carolina,January,2015,Monday,Single Vehicle,no,yes,no,110,Passenger,Female,75,12,no,37,12:37
+50589951,Texas,July,2019,Monday,Multiple Vehicle,yes,yes,yes,40,Driver,Male,31,3,no,39,3:39
+20055595,South Carolina,August,2018,Monday,Single Vehicle,no,yes,no,80,Driver,Female,67,18,yes,28,18:28
+54595830,District of Columbia,September,2020,Sunday,Single Vehicle,yes,yes,no,50,Passenger,Female,23,11,no,46,11:46
+47654388,Indiana,December,2022,Sunday,Single Vehicle,no,yes,yes,80,Driver,Male,31,12,yes,23,12:23
+41445413,California,March,2021,Tuesday,Single Vehicle,no,yes,yes,40,Passenger,Male,65,12,no,22,12:22
+19401072,New Jersey,April,2016,Sunday,Single Vehicle,no,no,no,70,Motorcycle rider,Male,59,23,yes,3,23:3
+75848714,Maryland,March,2022,Monday,Single Vehicle,no,yes,no,70,Motorcycle rider,Male,52,8,yes,3,8:3
+46296625,Texas,December,2021,Saturday,Single Vehicle,no,yes,no,80,Driver,Male,68,2,no,7,2:7
+75637836,South Carolina,March,2020,Sunday,Single Vehicle,yes,no,no,80,Motorcycle rider,Male,73,16,yes,21,16:21
+70174801,Oklahoma,August,2019,Sunday,Single Vehicle,no,yes,yes,100,Driver,Female,27,19,no,34,19:34
+68115995,Texas,October,2016,Saturday,Multiple Vehicle,yes,yes,yes,90,Pedestrian,Female,33,10,no,15,10:15
+15422103,Texas,June,2019,Friday,Multiple Vehicle,no,no,no,100,Passenger,Female,33,18,yes,37,18:37
+34017600,Massachusetts,October,2021,Tuesday,Single Vehicle,no,yes,yes,70,Passenger,Male,86,14,yes,56,14:56
+49502997,New York,August,2022,Friday,Single Vehicle,yes,no,yes,90,Passenger,Female,56,17,no,45,17:45
+64621877,Ohio,March,2022,Tuesday,Single Vehicle,no,yes,yes,40,Motorcycle rider,Female,23,13,yes,56,13:56
+26313163,California,November,2020,Wednesday,Single Vehicle,no,yes,no,80,Passenger,Male,15,17,yes,46,17:46
+71597520,New York,March,2020,Monday,Multiple Vehicle,yes,no,yes,40,Motorcycle rider,Female,35,12,no,56,12:56
+66674969,California,November,2020,Sunday,Single Vehicle,yes,yes,yes,100,Motorcycle rider,Female,75,20,yes,34,20:34
+95126649,California,September,2021,Tuesday,Single Vehicle,yes,yes,no,70,Pedestrian,Female,100,2,yes,13,2:13
+03100095,California,September,2017,Thursday,Single Vehicle,yes,yes,yes,80,Passenger,Female,96,9,yes,28,9:28
+00251718,Oregon,June,2020,Monday,Multiple Vehicle,no,yes,yes,70,Driver,Male,28,18,no,29,18:29
+35645543,Texas,October,2017,Wednesday,Multiple Vehicle,no,yes,yes,40,Passenger,Female,29,19,yes,12,19:12
+91872256,Tennessee,February,2020,Friday,Multiple Vehicle,no,no,no,40,Passenger,Male,27,22,no,42,22:42
+98048833,Georgia,November,2020,Tuesday,Single Vehicle,no,yes,no,120,Passenger,Female,92,20,yes,2,20:2
+88573091,Pennsylvania,August,2015,Monday,Single Vehicle,yes,no,no,110,Motorcycle rider,Male,39,14,yes,43,14:43
+88982016,New York,May,2016,Tuesday,Multiple Vehicle,yes,yes,yes,50,Passenger,Female,81,20,no,24,20:24
+18235337,Florida,December,2020,Thursday,Single Vehicle,no,yes,yes,80,Passenger,Female,34,13,no,26,13:26
+72243683,Texas,June,2015,Wednesday,Single Vehicle,yes,no,yes,50,Motorcycle rider,Male,22,11,yes,16,11:16
+43950798,Minnesota,August,2016,Tuesday,Multiple Vehicle,yes,no,yes,90,Pedestrian,Male,66,9,yes,28,9:28
+61035010,Illinois,January,2022,Wednesday,Multiple Vehicle,no,yes,no,60,Pedestrian,Male,58,1,yes,42,1:42
+43493200,California,October,2019,Saturday,Single Vehicle,no,no,no,70,Pedestrian,Male,62,12,yes,22,12:22
+71890874,Texas,August,2021,Saturday,Multiple Vehicle,no,yes,no,60,Passenger,Male,73,20,yes,37,20:37
+03164791,California,September,2019,Tuesday,Single Vehicle,yes,yes,yes,90,Pedestrian,Female,21,4,no,58,4:58
+47167993,New York,September,2016,Monday,Multiple Vehicle,no,no,yes,50,Passenger,Male,81,9,yes,43,9:43
+62094272,Texas,June,2016,Wednesday,Single Vehicle,no,no,no,90,Driver,Female,11,13,no,15,13:15
+69924718,Indiana,June,2018,Thursday,Multiple Vehicle,no,yes,no,100,Pedestrian,Male,69,12,no,46,12:46
+69714478,Connecticut,May,2016,Saturday,Single Vehicle,yes,yes,yes,60,Pedestrian,Female,26,22,no,43,22:43
+34505051,District of Columbia,October,2019,Tuesday,Single Vehicle,yes,yes,yes,110,Driver,Male,68,22,no,50,22:50
+02896717,Florida,February,2019,Thursday,Multiple Vehicle,no,yes,no,110,Passenger,Male,89,20,no,15,20:15
+23167403,Ohio,November,2016,Thursday,Single Vehicle,yes,yes,yes,100,Passenger,Male,47,13,yes,31,13:31
+85642181,New York,March,2020,Thursday,Multiple Vehicle,yes,yes,no,90,Driver,Female,63,10,no,32,10:32
+24919219,Florida,April,2021,Sunday,Multiple Vehicle,yes,yes,no,110,Motorcycle rider,Male,99,21,yes,19,21:19
+60735935,Minnesota,June,2017,Sunday,Multiple Vehicle,yes,yes,no,120,Passenger,Male,92,1,no,40,1:40
+29250710,Missouri,July,2018,Friday,Multiple Vehicle,no,yes,no,120,Motorcycle rider,Female,71,12,no,15,12:15
+19645381,New York,August,2016,Wednesday,Multiple Vehicle,yes,yes,no,40,Driver,Female,54,18,yes,11,18:11
+73774233,Pennsylvania,November,2017,Wednesday,Multiple Vehicle,yes,yes,no,120,Pedestrian,Male,71,16,yes,52,16:52
+75379391,Maryland,June,2022,Monday,Single Vehicle,no,no,no,40,Motorcycle rider,Female,47,18,yes,36,18:36
+49137213,Iowa,September,2015,Friday,Multiple Vehicle,no,no,no,90,Motorcycle rider,Male,18,13,yes,25,13:25
+47795768,Texas,April,2022,Sunday,Single Vehicle,no,yes,yes,110,Pedestrian,Male,72,11,yes,7,11:7
+57824611,California,November,2019,Tuesday,Multiple Vehicle,no,no,no,40,Pedestrian,Female,28,17,yes,28,17:28
+66182269,Colorado,August,2017,Saturday,Single Vehicle,yes,yes,yes,120,Passenger,Female,60,23,no,24,23:24
+48735540,Iowa,April,2020,Wednesday,Multiple Vehicle,no,yes,no,60,Driver,Female,58,14,yes,41,14:41
+98747003,Alabama,June,2019,Saturday,Single Vehicle,yes,yes,no,100,Passenger,Male,91,10,no,57,10:57
+62020594,Florida,June,2019,Monday,Multiple Vehicle,no,yes,no,70,Pedestrian,Female,88,1,yes,10,1:10
+18720655,Connecticut,August,2019,Sunday,Multiple Vehicle,no,yes,yes,50,Pedestrian,Female,16,20,yes,30,20:30
+62190666,Texas,February,2020,Friday,Multiple Vehicle,yes,no,yes,90,Passenger,Male,91,0,yes,10,0:10
+65414396,Oklahoma,February,2021,Thursday,Multiple Vehicle,yes,no,no,80,Passenger,Female,94,1,no,18,1:18
+53055138,Texas,February,2020,Thursday,Multiple Vehicle,no,no,no,50,Driver,Male,88,12,no,13,12:13
+14254858,Arizona,March,2020,Thursday,Single Vehicle,no,no,no,70,Pedestrian,Male,74,0,yes,6,0:6
+99229665,New York,March,2021,Monday,Multiple Vehicle,yes,no,yes,100,Motorcycle rider,Female,96,11,yes,47,11:47
+74607308,Connecticut,September,2017,Saturday,Multiple Vehicle,no,no,yes,100,Driver,Male,38,2,no,53,2:53
+58271743,Missouri,August,2019,Sunday,Multiple Vehicle,yes,no,no,90,Pedestrian,Male,87,15,yes,27,15:27
+45981052,Hawaii,June,2018,Thursday,Multiple Vehicle,yes,yes,no,80,Pedestrian,Female,29,7,no,23,7:23
+33757844,Texas,January,2016,Saturday,Multiple Vehicle,no,yes,yes,60,Driver,Female,94,17,no,55,17:55
+12440751,Washington,April,2021,Thursday,Single Vehicle,no,no,yes,110,Motorcycle rider,Male,68,14,yes,18,14:18
+14810625,California,January,2016,Friday,Single Vehicle,no,no,yes,70,Driver,Male,68,18,yes,13,18:13
+04596264,Texas,February,2016,Friday,Multiple Vehicle,no,no,yes,80,Pedestrian,Male,78,11,yes,13,11:13
+25925145,Tennessee,March,2015,Thursday,Single Vehicle,yes,yes,yes,110,Driver,Male,91,16,no,51,16:51
+90711946,Illinois,November,2020,Sunday,Multiple Vehicle,yes,no,yes,60,Pedestrian,Male,72,6,yes,46,6:46
+45209117,California,November,2016,Tuesday,Single Vehicle,no,yes,yes,50,Driver,Male,56,4,yes,8,4:8
+76289983,Florida,September,2022,Wednesday,Single Vehicle,yes,no,no,80,Passenger,Male,73,21,no,11,21:11
+46177834,Indiana,August,2021,Thursday,Single Vehicle,no,no,yes,70,Driver,Male,87,5,no,25,5:25
+24626522,New York,January,2018,Wednesday,Single Vehicle,yes,yes,no,100,Pedestrian,Male,56,18,yes,46,18:46
+06896794,Arkansas,February,2022,Monday,Multiple Vehicle,no,no,yes,90,Pedestrian,Female,76,21,no,27,21:27
+38354692,Florida,May,2022,Saturday,Single Vehicle,yes,yes,yes,100,Driver,Male,69,19,no,50,19:50
+93907648,California,April,2015,Wednesday,Single Vehicle,no,yes,no,60,Pedestrian,Female,91,2,no,52,2:52
+33970812,Oregon,May,2018,Friday,Single Vehicle,yes,no,no,90,Pedestrian,Female,20,5,no,50,5:50
+48509555,Georgia,May,2020,Monday,Single Vehicle,no,yes,no,120,Motorcycle rider,Female,50,8,no,5,8:5
+99751422,Virginia,September,2016,Monday,Multiple Vehicle,yes,no,no,90,Driver,Male,38,5,yes,33,5:33
+52944526,District of Columbia,December,2018,Friday,Multiple Vehicle,no,yes,no,80,Driver,Male,85,15,yes,42,15:42
+87298812,Indiana,January,2017,Tuesday,Single Vehicle,no,yes,yes,110,Pedestrian,Female,20,5,yes,4,5:4
+83209219,California,June,2022,Friday,Single Vehicle,no,no,no,100,Driver,Male,58,6,no,7,6:7
+55835004,Oregon,December,2019,Friday,Multiple Vehicle,yes,no,yes,80,Passenger,Male,93,23,no,57,23:57
+42887610,New York,March,2018,Friday,Multiple Vehicle,no,no,yes,60,Pedestrian,Male,84,1,no,36,1:36
+73111075,Tennessee,November,2021,Friday,Multiple Vehicle,no,yes,yes,110,Driver,Female,53,6,yes,37,6:37
+56285164,Indiana,August,2020,Monday,Multiple Vehicle,no,yes,no,100,Passenger,Female,27,5,yes,7,5:7
+35979271,Pennsylvania,September,2018,Sunday,Single Vehicle,yes,yes,no,90,Pedestrian,Female,61,1,no,27,1:27
+76157287,Wisconsin,January,2015,Monday,Multiple Vehicle,yes,yes,no,80,Driver,Male,89,18,no,26,18:26
+27685271,Washington,March,2015,Friday,Single Vehicle,yes,yes,no,80,Pedestrian,Female,25,23,no,0,23:0
+49577141,California,December,2020,Wednesday,Multiple Vehicle,no,yes,no,60,Motorcycle rider,Male,73,21,no,57,21:57
+44059478,Tennessee,December,2016,Sunday,Multiple Vehicle,no,no,no,80,Driver,Female,72,19,no,55,19:55
+98914066,Alabama,February,2017,Monday,Single Vehicle,yes,no,yes,40,Pedestrian,Female,32,20,yes,3,20:3
+18844506,Pennsylvania,July,2017,Monday,Multiple Vehicle,no,yes,no,100,Motorcycle rider,Male,46,2,yes,59,2:59
+78203267,Missouri,March,2020,Tuesday,Multiple Vehicle,no,yes,no,60,Passenger,Male,11,18,no,53,18:53
+24396457,California,April,2020,Saturday,Single Vehicle,no,no,yes,80,Passenger,Female,73,21,no,46,21:46
+17035012,Ohio,July,2020,Wednesday,Multiple Vehicle,yes,yes,yes,40,Motorcycle rider,Male,17,16,yes,23,16:23
+48054001,Arizona,August,2015,Tuesday,Single Vehicle,no,yes,yes,70,Motorcycle rider,Female,74,4,no,35,4:35
+66250464,Pennsylvania,May,2022,Tuesday,Multiple Vehicle,no,no,yes,70,Passenger,Female,67,22,yes,37,22:37
+73930897,Illinois,October,2022,Thursday,Single Vehicle,no,yes,yes,60,Pedestrian,Male,19,6,no,6,6:6
+11155181,Louisiana,October,2015,Monday,Single Vehicle,no,yes,yes,50,Motorcycle rider,Male,62,13,yes,16,13:16
+58312161,Minnesota,June,2019,Wednesday,Multiple Vehicle,yes,yes,yes,80,Pedestrian,Female,64,5,yes,17,5:17
+91141747,California,March,2015,Monday,Single Vehicle,yes,no,yes,60,Driver,Male,75,19,no,22,19:22
+91868317,Texas,January,2021,Wednesday,Single Vehicle,no,no,no,50,Pedestrian,Female,22,14,no,25,14:25
+55175263,Florida,April,2020,Tuesday,Multiple Vehicle,no,yes,no,120,Passenger,Female,60,1,no,2,1:2
+73740501,District of Columbia,May,2021,Friday,Multiple Vehicle,no,yes,no,100,Driver,Female,93,9,yes,32,9:32
+72582382,Pennsylvania,September,2017,Thursday,Multiple Vehicle,yes,no,no,40,Passenger,Male,100,4,yes,34,4:34
+31190285,Florida,August,2017,Saturday,Multiple Vehicle,yes,no,yes,80,Driver,Male,35,9,yes,57,9:57
+42690619,Florida,October,2019,Saturday,Multiple Vehicle,yes,no,yes,80,Motorcycle rider,Female,72,1,yes,46,1:46
+38333199,Delaware,October,2020,Thursday,Multiple Vehicle,yes,yes,no,110,Motorcycle rider,Male,72,2,yes,30,2:30
+04072068,Arizona,August,2016,Wednesday,Single Vehicle,yes,yes,yes,40,Driver,Male,89,22,no,44,22:44
+81128200,Florida,October,2017,Tuesday,Single Vehicle,yes,no,no,70,Motorcycle rider,Male,75,21,no,34,21:34
+90772401,Ohio,February,2015,Saturday,Single Vehicle,yes,yes,yes,80,Motorcycle rider,Male,57,9,no,52,9:52
+10587161,District of Columbia,December,2022,Thursday,Multiple Vehicle,no,yes,no,90,Passenger,Female,58,11,no,34,11:34
+65337876,Pennsylvania,October,2020,Sunday,Single Vehicle,no,no,no,90,Driver,Female,59,13,no,34,13:34
+42948542,Florida,February,2019,Thursday,Multiple Vehicle,yes,no,yes,40,Driver,Male,38,17,yes,39,17:39
+53570497,Texas,December,2017,Friday,Multiple Vehicle,yes,no,yes,110,Passenger,Male,61,23,yes,51,23:51
+30455504,Indiana,March,2020,Thursday,Multiple Vehicle,yes,yes,no,70,Pedestrian,Female,65,19,no,59,19:59
+47816549,California,May,2019,Monday,Single Vehicle,no,yes,no,120,Motorcycle rider,Female,33,21,yes,22,21:22
+78805917,California,November,2015,Thursday,Single Vehicle,yes,yes,yes,90,Motorcycle rider,Male,76,3,yes,57,3:57
+73177823,Arizona,June,2015,Sunday,Single Vehicle,yes,yes,yes,90,Driver,Female,88,9,no,35,9:35
+81408290,California,April,2020,Thursday,Single Vehicle,yes,no,no,70,Driver,Female,73,13,no,22,13:22
+28392900,Texas,June,2020,Wednesday,Single Vehicle,yes,no,yes,110,Passenger,Male,33,23,yes,14,23:14
+45681394,Pennsylvania,August,2019,Monday,Single Vehicle,yes,no,yes,40,Motorcycle rider,Male,50,6,no,6,6:6
+29098516,California,February,2017,Friday,Single Vehicle,yes,yes,yes,80,Motorcycle rider,Male,57,17,no,35,17:35
+81318705,Florida,September,2019,Saturday,Multiple Vehicle,yes,yes,no,80,Driver,Male,26,7,no,27,7:27
+01311430,Arizona,February,2016,Wednesday,Multiple Vehicle,yes,no,no,100,Passenger,Female,62,16,no,56,16:56
+19499094,Virginia,March,2017,Friday,Single Vehicle,yes,no,yes,60,Driver,Male,94,9,yes,52,9:52
+23044146,Colorado,June,2016,Wednesday,Multiple Vehicle,yes,yes,yes,40,Motorcycle rider,Female,97,4,no,35,4:35
+18856386,Tennessee,November,2022,Tuesday,Multiple Vehicle,no,yes,no,40,Motorcycle rider,Male,20,4,yes,0,4:0
+72915176,Ohio,February,2020,Saturday,Single Vehicle,no,yes,no,90,Pedestrian,Female,48,5,no,21,5:21
+43504968,Michigan,February,2018,Monday,Single Vehicle,no,no,yes,100,Motorcycle rider,Female,52,13,yes,19,13:19
+10975788,Texas,January,2016,Wednesday,Multiple Vehicle,yes,no,yes,100,Motorcycle rider,Female,78,6,yes,21,6:21
+02552249,California,July,2021,Wednesday,Multiple Vehicle,no,yes,no,70,Pedestrian,Male,39,20,no,44,20:44
+36213270,Nebraska,October,2021,Wednesday,Single Vehicle,no,no,yes,70,Motorcycle rider,Female,23,20,yes,16,20:16
+89666670,California,April,2015,Friday,Single Vehicle,no,no,no,110,Passenger,Male,15,14,yes,13,14:13
+65638996,Texas,July,2022,Saturday,Single Vehicle,yes,yes,yes,90,Passenger,Female,21,2,yes,45,2:45
+10245376,Missouri,January,2016,Thursday,Multiple Vehicle,no,yes,yes,40,Pedestrian,Female,28,23,no,40,23:40
+56594154,New York,June,2018,Monday,Single Vehicle,yes,no,yes,60,Driver,Female,33,20,no,35,20:35
+66412309,Georgia,January,2015,Wednesday,Multiple Vehicle,no,yes,no,80,Motorcycle rider,Female,39,12,no,33,12:33
+77915387,Pennsylvania,March,2019,Wednesday,Single Vehicle,yes,no,yes,40,Motorcycle rider,Male,74,18,no,55,18:55
+15690257,Texas,May,2022,Thursday,Single Vehicle,no,no,yes,40,Motorcycle rider,Female,24,6,no,53,6:53
+60331897,Delaware,August,2019,Wednesday,Single Vehicle,no,yes,no,120,Driver,Female,34,10,no,34,10:34
+85687654,Maryland,March,2017,Wednesday,Multiple Vehicle,yes,no,no,120,Passenger,Female,66,9,no,58,9:58
+68307496,Florida,November,2018,Tuesday,Single Vehicle,yes,yes,yes,80,Pedestrian,Male,63,6,yes,14,6:14
+49131735,Massachusetts,July,2020,Sunday,Single Vehicle,yes,yes,yes,70,Pedestrian,Male,10,10,no,24,10:24
+18691762,Connecticut,September,2019,Friday,Multiple Vehicle,no,no,yes,80,Pedestrian,Male,23,4,yes,10,4:10
+46201029,Michigan,February,2018,Wednesday,Single Vehicle,no,no,yes,100,Motorcycle rider,Female,90,16,yes,17,16:17
+31120596,North Carolina,December,2017,Friday,Multiple Vehicle,no,yes,yes,60,Driver,Female,99,5,yes,14,5:14
+34409383,Colorado,November,2017,Sunday,Multiple Vehicle,no,no,no,40,Driver,Male,37,2,no,4,2:4
+98065986,Alaska,June,2019,Sunday,Multiple Vehicle,no,no,yes,60,Pedestrian,Male,90,1,yes,27,1:27
+22390427,Ohio,May,2020,Thursday,Multiple Vehicle,yes,no,no,90,Driver,Female,62,15,no,40,15:40
+14059050,Indiana,February,2016,Saturday,Multiple Vehicle,yes,yes,yes,80,Pedestrian,Female,66,2,no,16,2:16
+35908033,Michigan,June,2021,Sunday,Multiple Vehicle,no,yes,no,80,Pedestrian,Female,45,0,yes,10,0:10
+67170967,Kansas,August,2019,Saturday,Multiple Vehicle,yes,no,yes,100,Passenger,Male,23,23,no,37,23:37
+34158754,South Dakota,May,2021,Tuesday,Single Vehicle,yes,no,yes,50,Passenger,Female,16,21,yes,25,21:25
+53596561,Pennsylvania,February,2019,Thursday,Multiple Vehicle,yes,yes,no,70,Pedestrian,Female,61,23,yes,51,23:51
+34634287,Connecticut,February,2020,Saturday,Single Vehicle,yes,yes,yes,50,Motorcycle rider,Male,20,3,yes,25,3:25
+58215846,California,April,2022,Monday,Multiple Vehicle,no,yes,no,110,Passenger,Male,14,10,no,42,10:42
+44299548,New York,November,2016,Wednesday,Single Vehicle,no,yes,yes,50,Pedestrian,Male,52,5,yes,58,5:58
+84597503,Tennessee,June,2016,Thursday,Multiple Vehicle,no,yes,no,70,Motorcycle rider,Male,93,5,no,27,5:27
+47797918,New Mexico,November,2015,Saturday,Single Vehicle,yes,no,yes,100,Motorcycle rider,Male,72,20,yes,18,20:18
+34210501,Virginia,November,2022,Sunday,Single Vehicle,no,yes,yes,50,Pedestrian,Male,68,3,no,9,3:9
+37640012,West Virginia,July,2019,Sunday,Multiple Vehicle,no,no,no,40,Motorcycle rider,Female,73,15,yes,23,15:23
+27889951,Florida,July,2022,Friday,Multiple Vehicle,yes,no,no,70,Driver,Male,80,18,no,43,18:43
+74437371,Maryland,January,2018,Thursday,Single Vehicle,no,yes,yes,70,Motorcycle rider,Female,78,13,no,30,13:30
+54355878,Ohio,August,2015,Wednesday,Multiple Vehicle,yes,no,yes,60,Driver,Female,39,5,yes,26,5:26
+26493492,New York,September,2019,Saturday,Single Vehicle,yes,no,yes,50,Passenger,Female,95,17,yes,59,17:59
+68717424,Virginia,September,2019,Friday,Single Vehicle,no,no,no,40,Driver,Female,79,7,yes,56,7:56
+15286645,Arizona,June,2020,Tuesday,Single Vehicle,yes,no,no,90,Motorcycle rider,Female,18,5,yes,31,5:31
+78848509,Minnesota,September,2018,Friday,Single Vehicle,yes,no,no,40,Passenger,Female,41,18,yes,4,18:4
+89569604,New York,October,2021,Tuesday,Multiple Vehicle,yes,yes,yes,70,Pedestrian,Male,21,1,yes,45,1:45
+88962998,New York,February,2019,Friday,Multiple Vehicle,yes,yes,no,90,Motorcycle rider,Male,55,17,yes,39,17:39
+15375664,Maryland,May,2016,Tuesday,Multiple Vehicle,no,yes,yes,70,Driver,Male,11,11,yes,12,11:12
+40005100,New York,November,2019,Friday,Single Vehicle,yes,yes,no,110,Driver,Female,65,3,yes,18,3:18
+36158484,Arizona,June,2022,Tuesday,Multiple Vehicle,no,yes,yes,120,Driver,Female,26,18,no,29,18:29
+71665227,California,April,2015,Monday,Multiple Vehicle,no,no,no,90,Driver,Male,92,8,yes,29,8:29
+35133674,Rhode Island,October,2017,Saturday,Single Vehicle,yes,yes,no,100,Passenger,Male,41,17,yes,38,17:38
+64954385,Illinois,January,2015,Thursday,Multiple Vehicle,yes,yes,yes,120,Pedestrian,Male,55,1,no,44,1:44
+69370743,Ohio,September,2017,Wednesday,Multiple Vehicle,yes,no,yes,50,Pedestrian,Female,44,2,no,1,2:1
+64408778,Missouri,December,2018,Friday,Multiple Vehicle,yes,yes,no,110,Motorcycle rider,Female,21,14,no,37,14:37
+84333228,Louisiana,December,2022,Sunday,Multiple Vehicle,no,no,no,50,Motorcycle rider,Female,21,8,no,37,8:37
+34735995,Louisiana,December,2017,Friday,Single Vehicle,no,yes,yes,120,Pedestrian,Male,52,17,no,24,17:24
+11317929,Arizona,November,2015,Saturday,Single Vehicle,yes,no,yes,50,Pedestrian,Male,43,19,yes,57,19:57
+64969741,Texas,June,2019,Wednesday,Multiple Vehicle,yes,yes,yes,60,Passenger,Female,26,18,no,46,18:46
+17991545,Utah,November,2017,Monday,Multiple Vehicle,no,yes,no,40,Passenger,Female,92,7,yes,22,7:22
+88903327,Virginia,June,2020,Wednesday,Single Vehicle,no,yes,yes,90,Motorcycle rider,Female,33,21,no,17,21:17
+43000324,Pennsylvania,April,2018,Wednesday,Single Vehicle,yes,no,no,40,Motorcycle rider,Female,46,7,yes,6,7:6
+69596405,Texas,November,2016,Tuesday,Multiple Vehicle,no,yes,no,80,Passenger,Female,44,16,yes,26,16:26
+35441060,Florida,February,2022,Friday,Single Vehicle,no,yes,yes,70,Motorcycle rider,Female,53,5,no,38,5:38
+91159959,Florida,September,2015,Friday,Multiple Vehicle,no,yes,yes,110,Motorcycle rider,Male,30,6,yes,32,6:32
+76001636,Pennsylvania,August,2022,Tuesday,Single Vehicle,no,yes,yes,80,Passenger,Male,95,11,no,3,11:3
+27225115,Texas,May,2020,Monday,Multiple Vehicle,yes,no,no,60,Pedestrian,Male,76,0,no,51,0:51
+41567060,Virginia,November,2016,Saturday,Multiple Vehicle,yes,yes,no,80,Motorcycle rider,Male,27,0,yes,38,0:38
+60132552,North Dakota,February,2016,Thursday,Multiple Vehicle,yes,no,no,70,Pedestrian,Male,51,11,yes,51,11:51
+87883738,Texas,March,2019,Friday,Single Vehicle,no,yes,no,50,Motorcycle rider,Male,59,20,no,51,20:51
+69025589,Colorado,April,2021,Friday,Multiple Vehicle,no,yes,yes,110,Motorcycle rider,Male,21,1,yes,4,1:4
+85595941,New Mexico,November,2020,Monday,Single Vehicle,yes,yes,no,60,Motorcycle rider,Female,34,0,no,53,0:53
+90234875,Illinois,December,2022,Thursday,Multiple Vehicle,yes,yes,yes,110,Motorcycle rider,Male,92,7,yes,13,7:13
+32107724,Arizona,July,2019,Saturday,Multiple Vehicle,no,no,no,70,Passenger,Female,75,12,yes,19,12:19
+47988472,District of Columbia,June,2019,Friday,Single Vehicle,no,yes,yes,90,Passenger,Male,95,7,no,13,7:13
+07926512,Florida,March,2016,Monday,Single Vehicle,yes,yes,no,100,Driver,Male,80,3,no,56,3:56
+65516556,Washington,April,2018,Monday,Multiple Vehicle,no,no,yes,90,Pedestrian,Male,11,3,yes,15,3:15
+03485872,District of Columbia,August,2022,Thursday,Single Vehicle,yes,yes,no,80,Passenger,Female,15,23,no,34,23:34
+41303637,North Carolina,March,2018,Monday,Multiple Vehicle,no,yes,no,50,Pedestrian,Male,45,19,yes,42,19:42
+84679451,Virginia,April,2015,Tuesday,Single Vehicle,yes,yes,no,60,Passenger,Male,98,23,no,27,23:27
+53242893,Delaware,June,2021,Monday,Single Vehicle,yes,no,yes,50,Passenger,Male,59,17,yes,2,17:2
+29339166,Virginia,November,2018,Wednesday,Multiple Vehicle,yes,no,yes,110,Pedestrian,Female,33,8,yes,15,8:15
+85386149,Oregon,February,2020,Sunday,Multiple Vehicle,yes,no,no,70,Motorcycle rider,Female,90,1,no,25,1:25
+12908294,District of Columbia,February,2022,Monday,Single Vehicle,yes,yes,no,110,Driver,Female,81,8,yes,57,8:57
+24127872,Florida,January,2016,Friday,Multiple Vehicle,yes,yes,yes,60,Motorcycle rider,Male,84,12,yes,6,12:6
+14917925,Florida,January,2018,Thursday,Single Vehicle,yes,no,yes,100,Motorcycle rider,Female,84,13,no,9,13:9
+19888709,South Carolina,October,2021,Thursday,Multiple Vehicle,no,no,yes,40,Motorcycle rider,Female,28,21,yes,36,21:36
+01864720,Idaho,March,2018,Thursday,Single Vehicle,no,yes,yes,50,Passenger,Female,87,0,yes,31,0:31
+13569835,Texas,August,2020,Sunday,Single Vehicle,no,no,yes,40,Motorcycle rider,Male,68,12,yes,11,12:11
+82462900,Tennessee,February,2019,Tuesday,Multiple Vehicle,yes,yes,yes,60,Pedestrian,Male,53,22,yes,23,22:23
+65940561,Iowa,January,2019,Saturday,Multiple Vehicle,yes,no,yes,60,Driver,Female,15,10,no,0,10:0
+30640212,Utah,October,2018,Monday,Multiple Vehicle,no,yes,no,90,Driver,Male,10,15,yes,18,15:18
+49284209,Missouri,December,2020,Thursday,Multiple Vehicle,yes,yes,no,110,Passenger,Female,58,6,yes,17,6:17
+38282828,Massachusetts,July,2020,Wednesday,Multiple Vehicle,yes,yes,yes,40,Driver,Female,56,0,yes,11,0:11
+60096780,California,January,2017,Tuesday,Single Vehicle,yes,yes,no,80,Driver,Male,20,9,no,9,9:9
+71267552,Idaho,October,2020,Sunday,Single Vehicle,yes,no,no,110,Driver,Male,24,10,no,26,10:26
+16924789,Virginia,February,2021,Saturday,Single Vehicle,no,no,no,60,Pedestrian,Male,64,5,no,22,5:22
+64991851,Florida,January,2016,Saturday,Single Vehicle,no,no,yes,120,Motorcycle rider,Male,83,2,yes,55,2:55
+35889115,Arkansas,June,2019,Friday,Multiple Vehicle,no,no,no,100,Pedestrian,Male,73,6,no,43,6:43
+49279017,Kansas,November,2022,Wednesday,Multiple Vehicle,no,no,yes,110,Pedestrian,Male,46,17,yes,25,17:25
+01534290,Kentucky,April,2019,Wednesday,Multiple Vehicle,no,no,yes,40,Passenger,Male,77,11,yes,24,11:24
+35486915,Pennsylvania,October,2016,Tuesday,Multiple Vehicle,yes,yes,no,90,Driver,Male,69,12,yes,5,12:5
+77461298,Texas,October,2015,Saturday,Single Vehicle,no,yes,yes,110,Driver,Male,18,9,no,30,9:30
+84694895,California,December,2016,Saturday,Multiple Vehicle,no,yes,no,80,Pedestrian,Male,79,16,no,16,16:16
+92453468,California,January,2018,Wednesday,Multiple Vehicle,yes,no,no,60,Motorcycle rider,Male,61,2,no,41,2:41
+98651273,Texas,May,2016,Monday,Single Vehicle,no,yes,yes,90,Motorcycle rider,Male,70,0,yes,10,0:10
+78963501,Pennsylvania,December,2017,Wednesday,Single Vehicle,yes,no,yes,40,Driver,Male,16,22,no,52,22:52
+97992366,Oklahoma,November,2022,Thursday,Single Vehicle,no,yes,yes,80,Passenger,Male,56,7,no,59,7:59
+85501692,Texas,August,2022,Thursday,Single Vehicle,no,no,yes,40,Motorcycle rider,Female,19,19,yes,38,19:38
+93435493,Washington,May,2018,Saturday,Multiple Vehicle,yes,yes,no,50,Pedestrian,Female,82,8,yes,59,8:59
+66154091,Texas,December,2021,Wednesday,Single Vehicle,no,yes,yes,80,Driver,Female,13,8,yes,23,8:23
+58965557,Texas,March,2019,Sunday,Multiple Vehicle,no,no,no,70,Passenger,Male,45,2,no,28,2:28
+62689670,New York,July,2020,Saturday,Single Vehicle,no,yes,no,100,Driver,Female,31,23,no,34,23:34
+55304801,Michigan,May,2018,Saturday,Multiple Vehicle,yes,no,yes,70,Driver,Female,58,1,yes,39,1:39
+89333486,Virginia,April,2021,Thursday,Multiple Vehicle,yes,no,yes,110,Driver,Female,67,15,yes,34,15:34
+14006605,California,May,2017,Friday,Single Vehicle,no,yes,no,100,Motorcycle rider,Female,53,4,no,29,4:29
+58291142,North Carolina,June,2022,Wednesday,Single Vehicle,no,yes,yes,50,Passenger,Female,19,15,yes,51,15:51
+66549232,New York,December,2016,Friday,Multiple Vehicle,no,no,no,90,Motorcycle rider,Female,71,20,no,54,20:54
+58850026,Georgia,May,2017,Thursday,Single Vehicle,no,no,no,80,Driver,Male,54,18,no,31,18:31
+78844232,Virginia,September,2019,Friday,Multiple Vehicle,no,yes,yes,100,Passenger,Female,26,10,yes,28,10:28
+33582967,California,February,2018,Thursday,Single Vehicle,no,yes,yes,40,Motorcycle rider,Female,30,1,yes,27,1:27
+61334003,California,November,2021,Saturday,Single Vehicle,yes,no,yes,60,Motorcycle rider,Male,24,3,no,51,3:51
+61839358,Indiana,July,2018,Sunday,Multiple Vehicle,no,yes,no,110,Passenger,Male,78,13,yes,15,13:15
+32066648,Delaware,August,2019,Sunday,Multiple Vehicle,yes,no,yes,110,Motorcycle rider,Male,17,2,no,58,2:58
+06220754,Michigan,June,2019,Thursday,Single Vehicle,yes,yes,yes,40,Driver,Male,67,23,no,45,23:45
+30888218,California,August,2016,Saturday,Multiple Vehicle,no,yes,yes,110,Driver,Female,94,13,yes,52,13:52
+04272340,New York,November,2015,Monday,Multiple Vehicle,yes,no,no,90,Pedestrian,Female,47,7,no,10,7:10
+16020103,California,September,2018,Sunday,Multiple Vehicle,no,no,yes,100,Driver,Female,15,13,yes,56,13:56
+88126373,Illinois,December,2016,Tuesday,Single Vehicle,no,no,no,60,Passenger,Female,52,23,no,36,23:36
+78751963,Florida,March,2022,Tuesday,Multiple Vehicle,no,yes,no,60,Motorcycle rider,Male,86,4,yes,25,4:25
+77206763,Washington,March,2019,Monday,Single Vehicle,no,no,no,100,Motorcycle rider,Female,45,20,no,43,20:43
+19467703,Pennsylvania,December,2016,Tuesday,Single Vehicle,yes,yes,no,90,Driver,Male,17,4,no,21,4:21
+28791623,Florida,June,2022,Friday,Single Vehicle,no,no,yes,120,Pedestrian,Male,43,14,no,57,14:57
+23671814,Minnesota,July,2015,Friday,Multiple Vehicle,no,no,yes,70,Driver,Male,41,16,no,33,16:33
+96764420,Ohio,July,2019,Monday,Multiple Vehicle,yes,no,yes,120,Passenger,Female,27,1,no,25,1:25
+37914847,Texas,August,2017,Sunday,Single Vehicle,yes,no,yes,60,Motorcycle rider,Female,24,13,yes,9,13:9
+80789857,Nevada,April,2016,Friday,Multiple Vehicle,yes,yes,no,40,Motorcycle rider,Male,67,1,no,5,1:5
+52098340,California,June,2017,Thursday,Multiple Vehicle,yes,no,yes,100,Motorcycle rider,Male,32,11,no,53,11:53
+71064508,Missouri,October,2020,Thursday,Multiple Vehicle,no,yes,yes,40,Passenger,Male,74,5,yes,38,5:38
+80011761,New York,October,2018,Friday,Multiple Vehicle,yes,yes,no,100,Passenger,Male,31,9,no,46,9:46
+71260290,Maryland,July,2015,Thursday,Single Vehicle,yes,no,yes,90,Pedestrian,Male,76,18,yes,40,18:40
+70279455,Nevada,July,2016,Sunday,Single Vehicle,no,no,yes,60,Passenger,Male,73,19,yes,25,19:25
+67479472,Pennsylvania,December,2020,Wednesday,Single Vehicle,yes,no,yes,70,Passenger,Male,99,14,no,47,14:47
+19416380,Texas,September,2019,Thursday,Multiple Vehicle,yes,no,no,100,Passenger,Female,47,17,no,48,17:48
+72427119,North Carolina,August,2022,Saturday,Single Vehicle,yes,no,no,90,Motorcycle rider,Female,79,18,yes,31,18:31
+28881236,New York,October,2019,Wednesday,Multiple Vehicle,yes,no,no,70,Passenger,Male,32,5,yes,6,5:6
+25385602,Florida,March,2016,Sunday,Multiple Vehicle,yes,no,no,50,Pedestrian,Male,36,3,no,56,3:56
+08103195,Texas,February,2019,Tuesday,Single Vehicle,no,no,no,90,Passenger,Male,90,4,no,57,4:57
+46827872,Mississippi,March,2022,Wednesday,Single Vehicle,yes,no,yes,100,Passenger,Female,77,21,no,3,21:3
+48205650,District of Columbia,October,2022,Tuesday,Single Vehicle,no,yes,no,110,Driver,Female,19,3,yes,33,3:33
+89358303,Colorado,October,2021,Saturday,Multiple Vehicle,no,yes,yes,90,Driver,Male,95,21,no,37,21:37
+32807053,Kansas,July,2019,Friday,Single Vehicle,no,yes,yes,90,Motorcycle rider,Male,58,6,no,59,6:59
+83454201,Colorado,September,2020,Wednesday,Multiple Vehicle,no,no,no,40,Driver,Female,19,5,no,43,5:43
+68533673,California,May,2016,Wednesday,Single Vehicle,yes,yes,yes,50,Driver,Female,96,20,no,39,20:39
+33361048,North Carolina,August,2015,Thursday,Multiple Vehicle,yes,no,yes,60,Driver,Male,28,3,no,29,3:29
+42234675,Minnesota,July,2017,Saturday,Multiple Vehicle,yes,no,no,90,Driver,Female,75,14,yes,32,14:32
+74755362,New York,October,2021,Monday,Multiple Vehicle,no,yes,yes,60,Passenger,Female,66,18,no,2,18:2
+94492874,Nebraska,January,2016,Friday,Single Vehicle,yes,yes,yes,50,Motorcycle rider,Female,82,3,yes,30,3:30
+48305943,Texas,March,2017,Friday,Single Vehicle,no,yes,no,110,Passenger,Male,16,23,no,41,23:41
+80248819,Oklahoma,December,2017,Friday,Single Vehicle,yes,no,yes,60,Passenger,Female,21,8,no,39,8:39
+58378643,Nevada,October,2019,Thursday,Multiple Vehicle,no,yes,yes,100,Driver,Female,26,11,yes,34,11:34
+71124874,Pennsylvania,September,2021,Tuesday,Single Vehicle,no,yes,yes,90,Motorcycle rider,Female,62,12,yes,27,12:27
+11052293,Colorado,October,2021,Monday,Single Vehicle,no,yes,yes,110,Passenger,Male,91,15,no,35,15:35
+91241359,Texas,July,2020,Wednesday,Single Vehicle,no,yes,yes,100,Pedestrian,Male,72,22,no,6,22:6
+57021856,Texas,March,2015,Saturday,Multiple Vehicle,no,no,yes,50,Motorcycle rider,Male,41,22,no,54,22:54
+06974684,Wisconsin,October,2021,Friday,Single Vehicle,yes,yes,no,70,Driver,Female,67,5,yes,23,5:23
+29402580,Arizona,December,2019,Saturday,Single Vehicle,yes,no,yes,110,Passenger,Female,66,4,no,15,4:15
+56319217,Ohio,August,2016,Saturday,Single Vehicle,no,yes,no,50,Motorcycle rider,Female,94,2,no,6,2:6
+02241044,Texas,October,2017,Saturday,Multiple Vehicle,no,yes,yes,80,Driver,Female,51,10,no,38,10:38
+26111851,California,May,2020,Tuesday,Multiple Vehicle,no,no,no,60,Passenger,Male,28,9,no,58,9:58
+64327525,Georgia,May,2017,Sunday,Multiple Vehicle,no,yes,no,110,Motorcycle rider,Female,31,12,yes,52,12:52
+03248837,Virginia,December,2022,Wednesday,Multiple Vehicle,no,no,yes,90,Pedestrian,Male,27,21,yes,39,21:39
+33372596,California,October,2017,Friday,Multiple Vehicle,no,no,yes,70,Motorcycle rider,Male,47,8,yes,58,8:58
+41613185,Pennsylvania,December,2020,Tuesday,Single Vehicle,no,no,yes,70,Pedestrian,Male,33,0,no,59,0:59
+62018648,Ohio,November,2021,Saturday,Multiple Vehicle,yes,yes,no,70,Driver,Male,12,20,yes,23,20:23
+23320943,Colorado,March,2018,Wednesday,Single Vehicle,no,no,yes,70,Driver,Female,62,22,no,23,22:23
+47556574,California,December,2022,Saturday,Single Vehicle,yes,no,yes,90,Motorcycle rider,Female,12,4,yes,40,4:40
+37595596,Texas,March,2015,Monday,Single Vehicle,yes,no,no,80,Pedestrian,Male,77,6,no,20,6:20
+57979046,Massachusetts,July,2016,Monday,Multiple Vehicle,yes,yes,no,80,Passenger,Female,71,17,yes,4,17:4
+32575199,Kansas,May,2019,Saturday,Multiple Vehicle,yes,yes,yes,100,Motorcycle rider,Male,64,2,yes,0,2:0
+93023859,Tennessee,November,2015,Saturday,Multiple Vehicle,no,no,no,120,Pedestrian,Male,75,5,no,40,5:40
+54803864,Pennsylvania,October,2020,Monday,Multiple Vehicle,yes,no,yes,70,Motorcycle rider,Female,12,11,no,52,11:52
+43213294,Texas,April,2019,Tuesday,Single Vehicle,yes,yes,yes,110,Pedestrian,Female,22,2,yes,44,2:44
+23099984,California,June,2015,Monday,Single Vehicle,yes,yes,yes,50,Passenger,Female,81,18,no,36,18:36
+17576019,Mississippi,December,2016,Sunday,Multiple Vehicle,no,no,yes,70,Driver,Male,76,12,no,20,12:20
+34056670,Ohio,February,2017,Monday,Single Vehicle,no,yes,no,100,Motorcycle rider,Male,97,21,no,17,21:17
+44896522,Illinois,April,2021,Tuesday,Single Vehicle,no,no,yes,100,Passenger,Male,38,20,no,54,20:54
+54835147,Arizona,December,2018,Tuesday,Multiple Vehicle,yes,yes,no,100,Pedestrian,Female,68,21,yes,32,21:32
+79757486,Alabama,April,2019,Wednesday,Single Vehicle,yes,yes,yes,110,Passenger,Female,79,0,yes,4,0:4
+36150230,Mississippi,January,2017,Wednesday,Single Vehicle,no,no,no,40,Motorcycle rider,Female,78,1,yes,16,1:16
+33222809,Indiana,June,2021,Monday,Multiple Vehicle,yes,no,yes,70,Driver,Male,31,10,no,41,10:41
+80884685,Missouri,February,2016,Sunday,Single Vehicle,no,yes,yes,80,Driver,Male,73,9,yes,24,9:24
+68684468,Tennessee,March,2019,Tuesday,Single Vehicle,no,no,no,110,Passenger,Male,63,3,no,54,3:54
+72777103,Iowa,August,2019,Tuesday,Multiple Vehicle,no,yes,no,80,Pedestrian,Male,15,21,no,51,21:51
+81035049,Virginia,January,2015,Wednesday,Multiple Vehicle,yes,no,yes,90,Motorcycle rider,Male,88,15,no,30,15:30
+58762074,Virginia,November,2018,Tuesday,Single Vehicle,yes,no,yes,100,Passenger,Female,46,14,no,29,14:29
+55030913,Colorado,March,2020,Friday,Single Vehicle,yes,yes,no,110,Passenger,Female,65,17,no,18,17:18
+66295961,Illinois,June,2019,Saturday,Single Vehicle,no,no,yes,120,Motorcycle rider,Female,75,13,no,26,13:26
+52195573,West Virginia,October,2018,Monday,Single Vehicle,yes,no,no,90,Pedestrian,Female,49,22,yes,57,22:57
+00275823,Florida,June,2020,Thursday,Multiple Vehicle,no,no,no,80,Passenger,Male,94,17,no,56,17:56
+54418944,Ohio,October,2020,Sunday,Multiple Vehicle,yes,no,no,80,Driver,Female,75,12,no,51,12:51
+93799537,Florida,September,2015,Friday,Single Vehicle,yes,no,no,90,Pedestrian,Female,70,6,yes,59,6:59
+70563104,Pennsylvania,April,2021,Friday,Single Vehicle,no,yes,no,50,Driver,Male,33,17,yes,7,17:7
+99386768,California,July,2022,Thursday,Multiple Vehicle,no,yes,yes,120,Driver,Female,33,10,no,6,10:6
+11349865,South Carolina,August,2017,Friday,Single Vehicle,no,no,no,120,Pedestrian,Male,30,17,yes,50,17:50
+54887028,Nevada,April,2016,Thursday,Single Vehicle,yes,no,no,100,Passenger,Male,94,20,yes,6,20:6
+93178519,Oklahoma,June,2022,Thursday,Multiple Vehicle,yes,no,no,80,Driver,Female,57,10,no,6,10:6
+86450081,Michigan,December,2018,Wednesday,Single Vehicle,yes,no,no,60,Passenger,Female,40,6,yes,4,6:4
+99390990,Texas,March,2021,Wednesday,Single Vehicle,no,no,no,60,Motorcycle rider,Male,94,10,yes,13,10:13
+70630059,Oklahoma,September,2020,Friday,Single Vehicle,yes,yes,yes,100,Passenger,Female,42,21,yes,38,21:38
+44529243,Tennessee,February,2022,Saturday,Multiple Vehicle,yes,yes,yes,120,Pedestrian,Male,28,5,yes,51,5:51
+51612169,California,September,2019,Thursday,Single Vehicle,yes,yes,yes,110,Motorcycle rider,Male,83,18,no,23,18:23
+26644921,Delaware,December,2020,Tuesday,Multiple Vehicle,yes,yes,yes,90,Passenger,Female,87,6,no,8,6:8
+45661427,Illinois,March,2019,Sunday,Single Vehicle,yes,yes,no,110,Motorcycle rider,Male,56,4,no,35,4:35
+20183100,Texas,February,2022,Monday,Multiple Vehicle,no,yes,yes,40,Passenger,Female,97,23,yes,56,23:56
+01989323,Arizona,February,2017,Thursday,Single Vehicle,yes,yes,yes,80,Motorcycle rider,Female,80,21,no,15,21:15
+73013926,Oklahoma,January,2015,Monday,Single Vehicle,yes,no,no,90,Motorcycle rider,Male,38,19,yes,19,19:19
+18502860,Washington,August,2022,Tuesday,Multiple Vehicle,yes,no,no,40,Driver,Male,91,23,yes,35,23:35
