@@ -14,10 +14,19 @@ def parse_arguments():
 
     Raises: argparse.ArgumentError exception
     """
-    parser = argparse.ArgumentParser(description="Fatalities website updater")
+    parser = argparse.ArgumentParser(
+        description="Road Fatalities website updater")
     parser.add_argument("-f", "--data_file", help="Relative path to "
-                        'fatalities data file in the project directory',
+                        'fatalities data file in csv format inside the project directory',
                         type=str, required=False)
+    parser.add_argument("-s", "--compare_start_year", help="Year1 or start year "
+                        'for generating comparison statistics between two years.'
+                        "Defaults to minimum year in the given data.",
+                        type=int, required=False)
+    parser.add_argument("-e", "--compare_end_year", help="Year2 or end year "
+                        'for generating comparison statistics between two years.'
+                        "Defaults to maximum year in the given data.",
+                        type=int, required=False)
     parser.add_argument("-d", "--debug", help="Enable debug logs",
                         required=False, action='store_true')
 

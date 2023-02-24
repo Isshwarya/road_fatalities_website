@@ -6,3 +6,4 @@ PRIMARY_ROAD_USERS = ('Driver', 'Passenger', 'Motorcycle rider', 'Pedestrian')
 INVOLVEMENT_COLUMNS = ['bus_involvement',
                        'rigid_truck_involvement', 'articulated_truck_involvement']
 STARTING_YEAR = 2006
+STEP_SIZE = 5
