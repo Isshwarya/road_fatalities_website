@@ -15,3 +15,9 @@ def get_caller_name(level=1):
 
 def get_all_method_names(cls):
     return [attr for attr in dir(cls) if not attr.startswith("__") and callable(getattr(cls, attr))]
+
+
+def write_to_file(filepath, content):
+    os.makedirs(os.path.dirname(filepath), exist_ok=True)
+    with open(filepath, 'w') as fh:
+        fh.write(str(content))

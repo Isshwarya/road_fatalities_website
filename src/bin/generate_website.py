@@ -1,9 +1,11 @@
+#! python3
+
 import argparse
 import os
 from pprint import pformat
 
 import lib.logger as logger
-from lib.load_charts import LoadCharts
+from lib.loader import Loader
 
 
 def parse_arguments():
@@ -52,7 +54,7 @@ def main():
     """
     parsed_args = parse_arguments()
     print_details(parsed_args)
-    loader = LoadCharts(parsed_args=parsed_args)
+    loader = Loader(parsed_args=parsed_args)
     loader.run()
 
 

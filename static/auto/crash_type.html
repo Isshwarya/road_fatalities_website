@@ -1,0 +1,53 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Australian Road Fatalities</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="../index.html">Home</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+          <div class="collapse navbar-collapse" id="navbarNavDropdown">
+            <ul class="navbar-nav">
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    Impact of fields
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                  <li><a class="dropdown-item" href="age_gender.html">Age and Gender</a></li>
+                  <li><a class="dropdown-item" href="state.html">State </a></li>
+                  <li><a class="dropdown-item" href="dayweek_hour_year.html">Dayweek, Hour and Year</a></li>
+                  <li><a class="dropdown-item" href="road_user.html">Road User Role</a></li>
+                  <li><a class="dropdown-item" href="crash_type.html">Crash Type</a></li>
+                  <li><a class="dropdown-item" href="speed_limit.html">Speed Limit</a></li>
+                 </ul>
+              </li>
+            </ul>
+          </div>
+           <a class="navbar-brand" href="../../data/traffic.csv">Download data file</a>
+        </div>
+      </nav>
+
+        <h3>Crash_type</h3>
+        <div style="width: 100%;">
+            <div style="width: 50%; float: left;">
+            <h4>Impact of crash_type over years</h4>
+            <img src="../images/auto/charts/fatalities_by_crash_type.jpg" class="img-fluid rounded float-left" alt="crash_type">
+            </div>
+            <div style="width: 50%; float: right;">
+              <h4>Comparison statistics of crash_type between 2015 and 2022</h4>
+            <img src="../images/auto/charts/fatalities_by_crash_type_compare.jpg" class="img-fluid rounded float-left" alt="crash_type">
+            </div>
+        </div>
+        
+
+</body>
+</html>
